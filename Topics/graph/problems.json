@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-10-07T22:08:19.291Z",
+  "updatedAt": "2026-10-07T22:08:34.869Z",
   "problems": [
     {
       "frontendId": "2492",
@@ -23,6 +23,26 @@
           "path": "2492-minimum-score-of-a-path-between-two-cities/2492-minimum-score-of-a-path-between-two-cities.java",
           "sha": "ad29da1a7570b719bdb1569fd6f939c22a9cf657",
           "lastSyncedAt": "2026-10-07T22:08:19.291Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3620",
+      "title": "Network Recovery Pathways",
+      "slug": "network-recovery-pathways",
+      "problemName": "3620-network-recovery-pathways",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/network-recovery-pathways/",
+      "folderPath": "3620-network-recovery-pathways/",
+      "readmePath": "3620-network-recovery-pathways/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3620-network-recovery-pathways.java",
+          "path": "3620-network-recovery-pathways/3620-network-recovery-pathways.java",
+          "sha": "5728568d1c59856cc246af78beed535fe6c3a52d",
+          "lastSyncedAt": "2026-10-07T22:08:34.869Z"
         }
       ]
     }
