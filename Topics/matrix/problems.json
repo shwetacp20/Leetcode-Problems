@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-07T22:05:38.419Z",
+  "updatedAt": "2026-10-07T22:08:08.536Z",
   "problems": [
     {
       "frontendId": "1260",
@@ -23,6 +23,26 @@
           "path": "1260-shift-2d-grid/1260-shift-2d-grid.java",
           "sha": "f7ebaae84840ec5917781fecc1c2dacc0644365d",
           "lastSyncedAt": "2026-10-07T22:05:38.419Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1301",
+      "title": "Number of Paths with Max Score",
+      "slug": "number-of-paths-with-max-score",
+      "problemName": "1301-number-of-paths-with-max-score",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-paths-with-max-score/",
+      "folderPath": "1301-number-of-paths-with-max-score/",
+      "readmePath": "1301-number-of-paths-with-max-score/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1301-number-of-paths-with-max-score.java",
+          "path": "1301-number-of-paths-with-max-score/1301-number-of-paths-with-max-score.java",
+          "sha": "27dba72e14af2db0325c50578ff25026e0671a89",
+          "lastSyncedAt": "2026-10-07T22:08:08.536Z"
         }
       ]
     },
