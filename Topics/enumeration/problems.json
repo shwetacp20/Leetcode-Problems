@@ -4,8 +4,28 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-10-07T22:04:56.331Z",
+  "updatedAt": "2026-10-07T22:05:30.839Z",
   "problems": [
+    {
+      "frontendId": "3499",
+      "title": "Maximize Active Section with Trade I",
+      "slug": "maximize-active-section-with-trade-i",
+      "problemName": "3499-maximize-active-section-with-trade-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-active-section-with-trade-i/",
+      "folderPath": "3499-maximize-active-section-with-trade-i/",
+      "readmePath": "3499-maximize-active-section-with-trade-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3499-maximize-active-section-with-trade-i.java",
+          "path": "3499-maximize-active-section-with-trade-i/3499-maximize-active-section-with-trade-i.java",
+          "sha": "de2501c086b005ef1b4fa3fc0278e4345645e7b9",
+          "lastSyncedAt": "2026-10-07T22:05:30.839Z"
+        }
+      ]
+    },
     {
       "frontendId": "3514",
       "title": "Number of Unique XOR Triplets II",
