@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-10-07T22:04:21.326Z",
+  "updatedAt": "2026-10-07T22:06:26.511Z",
   "problems": [
     {
       "frontendId": "1872",
@@ -23,6 +23,26 @@
           "path": "1872-stone-game-viii/1872-stone-game-viii.java",
           "sha": "12120569f50a483d74e2f47d632db4a094b8cb23",
           "lastSyncedAt": "2026-10-07T22:04:21.326Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "slug": "sorted-gcd-pair-queries",
+      "problemName": "3312-sorted-gcd-pair-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "folderPath": "3312-sorted-gcd-pair-queries/",
+      "readmePath": "3312-sorted-gcd-pair-queries/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3312-sorted-gcd-pair-queries.java",
+          "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.java",
+          "sha": "d2dd4b3690cee3e64811c68586e78bd3eda51bf2",
+          "lastSyncedAt": "2026-10-07T22:06:26.511Z"
         }
       ]
     },
