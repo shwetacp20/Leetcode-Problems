@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T22:03:24.890Z",
+  "updatedAt": "2026-10-07T22:04:14.508Z",
   "problems": [
     {
       "frontendId": "3550",
@@ -43,6 +43,26 @@
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
           "sha": "cf271a691cee9dc854cb796df57ebdfa2cf513a7",
           "lastSyncedAt": "2026-10-07T22:03:24.890Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3718",
+      "title": "Smallest Missing Multiple of K",
+      "slug": "smallest-missing-multiple-of-k",
+      "problemName": "3718-smallest-missing-multiple-of-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-multiple-of-k/",
+      "folderPath": "3718-smallest-missing-multiple-of-k/",
+      "readmePath": "3718-smallest-missing-multiple-of-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3718-smallest-missing-multiple-of-k.java",
+          "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.java",
+          "sha": "e6757997efdbc71f68511c23801c2bdd4f1f600e",
+          "lastSyncedAt": "2026-10-07T22:04:14.508Z"
         }
       ]
     },
