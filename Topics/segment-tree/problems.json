@@ -4,7 +4,7 @@
     "slug": "segment-tree",
     "name": "Segment Tree"
   },
-  "updatedAt": "2026-10-07T22:09:06.090Z",
+  "updatedAt": "2026-10-07T22:09:26.981Z",
   "problems": [
     {
       "frontendId": "3501",
@@ -23,6 +23,26 @@
           "path": "3501-maximize-active-section-with-trade-ii/3501-maximize-active-section-with-trade-ii.java",
           "sha": "30020dd6558465e3c8dd2583ba0b0a8259b0bc1b",
           "lastSyncedAt": "2026-10-07T22:05:16.617Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "slug": "count-subarrays-with-majority-element-i",
+      "problemName": "3737-count-subarrays-with-majority-element-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "folderPath": "3737-count-subarrays-with-majority-element-i/",
+      "readmePath": "3737-count-subarrays-with-majority-element-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3737-count-subarrays-with-majority-element-i.java",
+          "path": "3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.java",
+          "sha": "27dbe4bb786a1025ecb958b89144c0c01b38b82c",
+          "lastSyncedAt": "2026-10-07T22:09:26.981Z"
         }
       ]
     },
