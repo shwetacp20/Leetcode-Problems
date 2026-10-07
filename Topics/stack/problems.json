@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-10-07T22:05:51.856Z",
+  "updatedAt": "2026-10-07T22:09:58.726Z",
   "problems": [
     {
       "frontendId": "1081",
@@ -23,6 +23,26 @@
           "path": "1081-smallest-subsequence-of-distinct-characters/1081-smallest-subsequence-of-distinct-characters.java",
           "sha": "829dbd3ec690025248c844b8f1b10943a7ca7fb7",
           "lastSyncedAt": "2026-10-07T22:05:51.856Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2130",
+      "title": "Maximum Twin Sum of a Linked List",
+      "slug": "maximum-twin-sum-of-a-linked-list",
+      "problemName": "2130-maximum-twin-sum-of-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/",
+      "folderPath": "2130-maximum-twin-sum-of-a-linked-list/",
+      "readmePath": "2130-maximum-twin-sum-of-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2130-maximum-twin-sum-of-a-linked-list.java",
+          "path": "2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.java",
+          "sha": "42441b3ee82c59f4cbba72a348b4f41844dd712e",
+          "lastSyncedAt": "2026-10-07T22:09:58.726Z"
         }
       ]
     }
