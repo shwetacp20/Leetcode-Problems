@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-07T22:07:42.530Z",
+  "updatedAt": "2026-10-07T22:08:56.380Z",
   "problems": [
     {
       "frontendId": "1331",
@@ -23,6 +23,26 @@
           "path": "1331-rank-transform-of-an-array/1331-rank-transform-of-an-array.java",
           "sha": "18bc2b8a15726aea8db7b9af6f78da49a902a3bd",
           "lastSyncedAt": "2026-10-07T22:07:42.530Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3020",
+      "title": "Find the Maximum Number of Elements in Subset",
+      "slug": "find-the-maximum-number-of-elements-in-subset",
+      "problemName": "3020-find-the-maximum-number-of-elements-in-subset",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/",
+      "folderPath": "3020-find-the-maximum-number-of-elements-in-subset/",
+      "readmePath": "3020-find-the-maximum-number-of-elements-in-subset/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3020-find-the-maximum-number-of-elements-in-subset.java",
+          "path": "3020-find-the-maximum-number-of-elements-in-subset/3020-find-the-maximum-number-of-elements-in-subset.java",
+          "sha": "9878816d5239e13f3d5e6bd87595795d07ec8575",
+          "lastSyncedAt": "2026-10-07T22:08:56.380Z"
         }
       ]
     },
