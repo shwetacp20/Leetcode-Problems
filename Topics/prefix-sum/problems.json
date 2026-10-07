@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum"
+  },
+  "updatedAt": "2026-10-07T22:02:52.827Z",
+  "problems": [
+    {
+      "frontendId": "3904",
+      "title": "Smallest Stable Index II",
+      "slug": "smallest-stable-index-ii",
+      "problemName": "3904-smallest-stable-index-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-ii/",
+      "folderPath": "3904-smallest-stable-index-ii/",
+      "readmePath": "3904-smallest-stable-index-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3904-smallest-stable-index-ii.java",
+          "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.java",
+          "sha": "2d741954ae6dd7c589ff48d89cc51cb0404e2692",
+          "lastSyncedAt": "2026-10-07T22:02:52.827Z"
+        }
+      ]
+    }
+  ]
+}
