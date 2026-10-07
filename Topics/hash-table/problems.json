@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-07T22:08:56.380Z",
+  "updatedAt": "2026-10-07T22:09:06.090Z",
   "problems": [
     {
       "frontendId": "1331",
@@ -123,6 +123,26 @@
           "path": "3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.java",
           "sha": "2f58544c92a4f6a217ad1699194a627895b1a663",
           "lastSyncedAt": "2026-10-07T22:03:42.293Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3739",
+      "title": "Count Subarrays With Majority Element II",
+      "slug": "count-subarrays-with-majority-element-ii",
+      "problemName": "3739-count-subarrays-with-majority-element-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-ii/",
+      "folderPath": "3739-count-subarrays-with-majority-element-ii/",
+      "readmePath": "3739-count-subarrays-with-majority-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3739-count-subarrays-with-majority-element-ii.java",
+          "path": "3739-count-subarrays-with-majority-element-ii/3739-count-subarrays-with-majority-element-ii.java",
+          "sha": "91c54503811b6957daddf1564370e2129e894e5f",
+          "lastSyncedAt": "2026-10-07T22:09:06.090Z"
         }
       ]
     }
