@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-07T22:07:21.976Z",
+  "updatedAt": "2026-10-07T22:07:53.695Z",
   "problems": [
     {
       "frontendId": "1872",
@@ -183,6 +183,26 @@
           "path": "3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.java",
           "sha": "b8d6fa95d998134ffeb3a34cafe26b08564ad12b",
           "lastSyncedAt": "2026-10-07T22:07:13.061Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3754",
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+      "slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+      "problemName": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/",
+      "folderPath": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i/",
+      "readmePath": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i.java",
+          "path": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.java",
+          "sha": "60494eba0511a65b28abdb7ee1bab3343b9dc35e",
+          "lastSyncedAt": "2026-10-07T22:07:53.695Z"
         }
       ]
     },
