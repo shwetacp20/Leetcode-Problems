@@ -4,8 +4,28 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-07T22:03:24.890Z",
+  "updatedAt": "2026-10-07T22:04:56.331Z",
   "problems": [
+    {
+      "frontendId": "3514",
+      "title": "Number of Unique XOR Triplets II",
+      "slug": "number-of-unique-xor-triplets-ii",
+      "problemName": "3514-number-of-unique-xor-triplets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii/",
+      "folderPath": "3514-number-of-unique-xor-triplets-ii/",
+      "readmePath": "3514-number-of-unique-xor-triplets-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3514-number-of-unique-xor-triplets-ii.java",
+          "path": "3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.java",
+          "sha": "88de790fd0cc5b14a8baffd08a36881ad085d36c",
+          "lastSyncedAt": "2026-10-07T22:04:56.331Z"
+        }
+      ]
+    },
     {
       "frontendId": "3568",
       "title": "Minimum Moves to Clean the Classroom",
