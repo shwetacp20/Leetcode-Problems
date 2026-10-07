@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-07T22:03:17.588Z",
+  "updatedAt": "2026-10-07T22:04:21.326Z",
   "problems": [
+    {
+      "frontendId": "1872",
+      "title": "Stone Game VIII",
+      "slug": "stone-game-viii",
+      "problemName": "1872-stone-game-viii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-viii/",
+      "folderPath": "1872-stone-game-viii/",
+      "readmePath": "1872-stone-game-viii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1872-stone-game-viii.java",
+          "path": "1872-stone-game-viii/1872-stone-game-viii.java",
+          "sha": "12120569f50a483d74e2f47d632db4a094b8cb23",
+          "lastSyncedAt": "2026-10-07T22:04:21.326Z"
+        }
+      ]
+    },
     {
       "frontendId": "3550",
       "title": "Smallest Index With Digit Sum Equal to Index",
