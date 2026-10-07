@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "union-find",
+    "name": "Union-Find"
+  },
+  "updatedAt": "2026-10-07T22:08:19.291Z",
+  "problems": [
+    {
+      "frontendId": "2492",
+      "title": "Minimum Score of a Path Between Two Cities",
+      "slug": "minimum-score-of-a-path-between-two-cities",
+      "problemName": "2492-minimum-score-of-a-path-between-two-cities",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/",
+      "folderPath": "2492-minimum-score-of-a-path-between-two-cities/",
+      "readmePath": "2492-minimum-score-of-a-path-between-two-cities/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2492-minimum-score-of-a-path-between-two-cities.java",
+          "path": "2492-minimum-score-of-a-path-between-two-cities/2492-minimum-score-of-a-path-between-two-cities.java",
+          "sha": "ad29da1a7570b719bdb1569fd6f939c22a9cf657",
+          "lastSyncedAt": "2026-10-07T22:08:19.291Z"
+        }
+      ]
+    }
+  ]
+}
