@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T22:04:21.326Z",
+  "updatedAt": "2026-10-07T22:04:56.331Z",
   "problems": [
     {
       "frontendId": "1872",
@@ -23,6 +23,26 @@
           "path": "1872-stone-game-viii/1872-stone-game-viii.java",
           "sha": "12120569f50a483d74e2f47d632db4a094b8cb23",
           "lastSyncedAt": "2026-10-07T22:04:21.326Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3514",
+      "title": "Number of Unique XOR Triplets II",
+      "slug": "number-of-unique-xor-triplets-ii",
+      "problemName": "3514-number-of-unique-xor-triplets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii/",
+      "folderPath": "3514-number-of-unique-xor-triplets-ii/",
+      "readmePath": "3514-number-of-unique-xor-triplets-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3514-number-of-unique-xor-triplets-ii.java",
+          "path": "3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.java",
+          "sha": "88de790fd0cc5b14a8baffd08a36881ad085d36c",
+          "lastSyncedAt": "2026-10-07T22:04:56.331Z"
         }
       ]
     },
