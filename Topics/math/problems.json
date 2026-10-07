@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-07T22:06:53.579Z",
+  "updatedAt": "2026-10-07T22:07:13.061Z",
   "problems": [
     {
       "frontendId": "1872",
@@ -143,6 +143,26 @@
           "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "acf6cef677bc02791ea4fdb63c81020e145d1e2b",
           "lastSyncedAt": "2026-10-07T22:02:16.925Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3658",
+      "title": "GCD of Odd and Even Sums",
+      "slug": "gcd-of-odd-and-even-sums",
+      "problemName": "3658-gcd-of-odd-and-even-sums",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+      "folderPath": "3658-gcd-of-odd-and-even-sums/",
+      "readmePath": "3658-gcd-of-odd-and-even-sums/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3658-gcd-of-odd-and-even-sums.java",
+          "path": "3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.java",
+          "sha": "b8d6fa95d998134ffeb3a34cafe26b08564ad12b",
+          "lastSyncedAt": "2026-10-07T22:07:13.061Z"
         }
       ]
     },
