@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-07T22:07:21.976Z",
+  "updatedAt": "2026-10-07T22:08:08.536Z",
   "problems": [
     {
       "frontendId": "115",
@@ -43,6 +43,26 @@
           "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.java",
           "sha": "0cc73955bbd3eac215707e9b99ddac3fa2bbb769",
           "lastSyncedAt": "2026-10-07T22:02:35.837Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1301",
+      "title": "Number of Paths with Max Score",
+      "slug": "number-of-paths-with-max-score",
+      "problemName": "1301-number-of-paths-with-max-score",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-paths-with-max-score/",
+      "folderPath": "1301-number-of-paths-with-max-score/",
+      "readmePath": "1301-number-of-paths-with-max-score/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1301-number-of-paths-with-max-score.java",
+          "path": "1301-number-of-paths-with-max-score/1301-number-of-paths-with-max-score.java",
+          "sha": "27dba72e14af2db0325c50578ff25026e0671a89",
+          "lastSyncedAt": "2026-10-07T22:08:08.536Z"
         }
       ]
     },
