@@ -4,7 +4,7 @@
     "slug": "greatest-common-divisor",
     "name": "Greatest Common Divisor"
   },
-  "updatedAt": "2026-10-07T22:06:26.511Z",
+  "updatedAt": "2026-10-07T22:07:21.976Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -43,6 +43,26 @@
           "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.java",
           "sha": "d2dd4b3690cee3e64811c68586e78bd3eda51bf2",
           "lastSyncedAt": "2026-10-07T22:06:26.511Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3336",
+      "title": "Find the Number of Subsequences With Equal GCD",
+      "slug": "find-the-number-of-subsequences-with-equal-gcd",
+      "problemName": "3336-find-the-number-of-subsequences-with-equal-gcd",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/",
+      "folderPath": "3336-find-the-number-of-subsequences-with-equal-gcd/",
+      "readmePath": "3336-find-the-number-of-subsequences-with-equal-gcd/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3336-find-the-number-of-subsequences-with-equal-gcd.java",
+          "path": "3336-find-the-number-of-subsequences-with-equal-gcd/3336-find-the-number-of-subsequences-with-equal-gcd.java",
+          "sha": "e65ff8359881fb1d91cefc9f045830817ef578f0",
+          "lastSyncedAt": "2026-10-07T22:07:21.976Z"
         }
       ]
     }
