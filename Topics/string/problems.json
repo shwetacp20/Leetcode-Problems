@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-07T22:05:51.856Z",
+  "updatedAt": "2026-10-07T22:09:43.172Z",
   "problems": [
     {
       "frontendId": "115",
@@ -143,6 +143,26 @@
           "path": "3501-maximize-active-section-with-trade-ii/3501-maximize-active-section-with-trade-ii.java",
           "sha": "30020dd6558465e3c8dd2583ba0b0a8259b0bc1b",
           "lastSyncedAt": "2026-10-07T22:05:16.617Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3612",
+      "title": "Process String with Special Operations I",
+      "slug": "process-string-with-special-operations-i",
+      "problemName": "3612-process-string-with-special-operations-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/process-string-with-special-operations-i/",
+      "folderPath": "3612-process-string-with-special-operations-i/",
+      "readmePath": "3612-process-string-with-special-operations-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3612-process-string-with-special-operations-i.java",
+          "path": "3612-process-string-with-special-operations-i/3612-process-string-with-special-operations-i.java",
+          "sha": "8b5bbd372af51cf660d97d248fe16683c0c64329",
+          "lastSyncedAt": "2026-10-07T22:09:43.172Z"
         }
       ]
     },
