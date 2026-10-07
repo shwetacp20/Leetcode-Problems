@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-07T22:06:53.579Z",
+  "updatedAt": "2026-10-07T22:09:50.876Z",
   "problems": [
+    {
+      "frontendId": "2095",
+      "title": "Delete the Middle Node of a Linked List",
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "problemName": "2095-delete-the-middle-node-of-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+      "folderPath": "2095-delete-the-middle-node-of-a-linked-list/",
+      "readmePath": "2095-delete-the-middle-node-of-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2095-delete-the-middle-node-of-a-linked-list.java",
+          "path": "2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.java",
+          "sha": "294050687a5b1f84b806abece2d4634447d0717d",
+          "lastSyncedAt": "2026-10-07T22:09:50.876Z"
+        }
+      ]
+    },
     {
       "frontendId": "3867",
       "title": "Sum of GCD of Formed Pairs",
