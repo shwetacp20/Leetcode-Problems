@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-07T22:02:45.802Z",
+  "updatedAt": "2026-10-07T22:04:21.326Z",
   "problems": [
     {
       "frontendId": "115",
@@ -43,6 +43,26 @@
           "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.java",
           "sha": "0cc73955bbd3eac215707e9b99ddac3fa2bbb769",
           "lastSyncedAt": "2026-10-07T22:02:35.837Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1872",
+      "title": "Stone Game VIII",
+      "slug": "stone-game-viii",
+      "problemName": "1872-stone-game-viii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-viii/",
+      "folderPath": "1872-stone-game-viii/",
+      "readmePath": "1872-stone-game-viii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1872-stone-game-viii.java",
+          "path": "1872-stone-game-viii/1872-stone-game-viii.java",
+          "sha": "12120569f50a483d74e2f47d632db4a094b8cb23",
+          "lastSyncedAt": "2026-10-07T22:04:21.326Z"
         }
       ]
     }
