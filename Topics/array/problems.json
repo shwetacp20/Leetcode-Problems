@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T22:08:00.042Z",
+  "updatedAt": "2026-10-07T22:08:08.536Z",
   "problems": [
     {
       "frontendId": "1260",
@@ -43,6 +43,26 @@
           "path": "1288-remove-covered-intervals/1288-remove-covered-intervals.java",
           "sha": "d990bfcd2d3c8ab39da7d52869d68ce7e3c3b440",
           "lastSyncedAt": "2026-10-07T22:08:00.042Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1301",
+      "title": "Number of Paths with Max Score",
+      "slug": "number-of-paths-with-max-score",
+      "problemName": "1301-number-of-paths-with-max-score",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-paths-with-max-score/",
+      "folderPath": "1301-number-of-paths-with-max-score/",
+      "readmePath": "1301-number-of-paths-with-max-score/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1301-number-of-paths-with-max-score.java",
+          "path": "1301-number-of-paths-with-max-score/1301-number-of-paths-with-max-score.java",
+          "sha": "27dba72e14af2db0325c50578ff25026e0671a89",
+          "lastSyncedAt": "2026-10-07T22:08:08.536Z"
         }
       ]
     },
