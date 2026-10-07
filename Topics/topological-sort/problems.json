@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "topological-sort",
+    "name": "Topological Sort"
+  },
+  "updatedAt": "2026-10-07T22:08:34.869Z",
+  "problems": [
+    {
+      "frontendId": "3620",
+      "title": "Network Recovery Pathways",
+      "slug": "network-recovery-pathways",
+      "problemName": "3620-network-recovery-pathways",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/network-recovery-pathways/",
+      "folderPath": "3620-network-recovery-pathways/",
+      "readmePath": "3620-network-recovery-pathways/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3620-network-recovery-pathways.java",
+          "path": "3620-network-recovery-pathways/3620-network-recovery-pathways.java",
+          "sha": "5728568d1c59856cc246af78beed535fe6c3a52d",
+          "lastSyncedAt": "2026-10-07T22:08:34.869Z"
+        }
+      ]
+    }
+  ]
+}
