@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T22:07:42.530Z",
+  "updatedAt": "2026-10-07T22:08:00.042Z",
   "problems": [
     {
       "frontendId": "1260",
@@ -23,6 +23,26 @@
           "path": "1260-shift-2d-grid/1260-shift-2d-grid.java",
           "sha": "f7ebaae84840ec5917781fecc1c2dacc0644365d",
           "lastSyncedAt": "2026-10-07T22:05:38.419Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1288",
+      "title": "Remove Covered Intervals",
+      "slug": "remove-covered-intervals",
+      "problemName": "1288-remove-covered-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-covered-intervals/",
+      "folderPath": "1288-remove-covered-intervals/",
+      "readmePath": "1288-remove-covered-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1288-remove-covered-intervals.java",
+          "path": "1288-remove-covered-intervals/1288-remove-covered-intervals.java",
+          "sha": "d990bfcd2d3c8ab39da7d52869d68ce7e3c3b440",
+          "lastSyncedAt": "2026-10-07T22:08:00.042Z"
         }
       ]
     },
