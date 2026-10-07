@@ -4,6 +4,27 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T22:01:19.936Z",
-  "problems": []
+  "updatedAt": "2026-10-07T22:02:16.925Z",
+  "problems": [
+    {
+      "frontendId": "3550",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "problemName": "3550-smallest-index-with-digit-sum-equal-to-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+      "folderPath": "3550-smallest-index-with-digit-sum-equal-to-index/",
+      "readmePath": "3550-smallest-index-with-digit-sum-equal-to-index/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3550-smallest-index-with-digit-sum-equal-to-index.java",
+          "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
+          "sha": "acf6cef677bc02791ea4fdb63c81020e145d1e2b",
+          "lastSyncedAt": "2026-10-07T22:02:16.925Z"
+        }
+      ]
+    }
+  ]
 }
