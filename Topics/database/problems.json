@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T22:02:02.128Z",
+  "updatedAt": "2026-10-07T22:02:10.847Z",
   "problems": [
     {
       "frontendId": "183",
@@ -23,6 +23,26 @@
           "path": "0183-customers-who-never-order/0183-customers-who-never-order.py",
           "sha": "11562217d5c80d839d8cfa2953c23c01a24f2ee3",
           "lastSyncedAt": "2026-10-07T22:01:53.447Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "595",
+      "title": "Big Countries",
+      "slug": "big-countries",
+      "problemName": "0595-big-countries",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/big-countries/",
+      "folderPath": "0595-big-countries/",
+      "readmePath": "0595-big-countries/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "0595-big-countries.py",
+          "path": "0595-big-countries/0595-big-countries.py",
+          "sha": "61c93b6fb6aee82afd091dd6b3806b00e2041da1",
+          "lastSyncedAt": "2026-10-07T22:02:10.847Z"
         }
       ]
     },
