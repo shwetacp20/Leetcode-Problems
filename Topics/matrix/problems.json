@@ -4,8 +4,28 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-07T22:03:24.890Z",
+  "updatedAt": "2026-10-07T22:05:38.419Z",
   "problems": [
+    {
+      "frontendId": "1260",
+      "title": "Shift 2D Grid",
+      "slug": "shift-2d-grid",
+      "problemName": "1260-shift-2d-grid",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shift-2d-grid/",
+      "folderPath": "1260-shift-2d-grid/",
+      "readmePath": "1260-shift-2d-grid/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1260-shift-2d-grid.java",
+          "path": "1260-shift-2d-grid/1260-shift-2d-grid.java",
+          "sha": "f7ebaae84840ec5917781fecc1c2dacc0644365d",
+          "lastSyncedAt": "2026-10-07T22:05:38.419Z"
+        }
+      ]
+    },
     {
       "frontendId": "3568",
       "title": "Minimum Moves to Clean the Classroom",
