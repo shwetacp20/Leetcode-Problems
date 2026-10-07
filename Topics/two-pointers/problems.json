@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers"
+  },
+  "updatedAt": "2026-10-07T22:06:53.579Z",
+  "problems": [
+    {
+      "frontendId": "3867",
+      "title": "Sum of GCD of Formed Pairs",
+      "slug": "sum-of-gcd-of-formed-pairs",
+      "problemName": "3867-sum-of-gcd-of-formed-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/",
+      "folderPath": "3867-sum-of-gcd-of-formed-pairs/",
+      "readmePath": "3867-sum-of-gcd-of-formed-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3867-sum-of-gcd-of-formed-pairs.java",
+          "path": "3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.java",
+          "sha": "8c1615c1308ddc9cef47b2a67da3c515f7ff073a",
+          "lastSyncedAt": "2026-10-07T22:06:53.579Z"
+        }
+      ]
+    }
+  ]
+}
