@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-07T22:07:42.530Z",
+  "updatedAt": "2026-10-07T22:08:00.042Z",
   "problems": [
+    {
+      "frontendId": "1288",
+      "title": "Remove Covered Intervals",
+      "slug": "remove-covered-intervals",
+      "problemName": "1288-remove-covered-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-covered-intervals/",
+      "folderPath": "1288-remove-covered-intervals/",
+      "readmePath": "1288-remove-covered-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1288-remove-covered-intervals.java",
+          "path": "1288-remove-covered-intervals/1288-remove-covered-intervals.java",
+          "sha": "d990bfcd2d3c8ab39da7d52869d68ce7e3c3b440",
+          "lastSyncedAt": "2026-10-07T22:08:00.042Z"
+        }
+      ]
+    },
     {
       "frontendId": "1331",
       "title": "Rank Transform of an Array",
