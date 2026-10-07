@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-07T22:04:44.263Z",
+  "updatedAt": "2026-10-07T22:05:16.617Z",
   "problems": [
     {
       "frontendId": "115",
@@ -83,6 +83,26 @@
           "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.java",
           "sha": "6374fd02eb77d6a1fb9bf54e10fa6a93d9a53af7",
           "lastSyncedAt": "2026-10-07T22:04:05.239Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3501",
+      "title": "Maximize Active Section with Trade II",
+      "slug": "maximize-active-section-with-trade-ii",
+      "problemName": "3501-maximize-active-section-with-trade-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-active-section-with-trade-ii/",
+      "folderPath": "3501-maximize-active-section-with-trade-ii/",
+      "readmePath": "3501-maximize-active-section-with-trade-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3501-maximize-active-section-with-trade-ii.java",
+          "path": "3501-maximize-active-section-with-trade-ii/3501-maximize-active-section-with-trade-ii.java",
+          "sha": "30020dd6558465e3c8dd2583ba0b0a8259b0bc1b",
+          "lastSyncedAt": "2026-10-07T22:05:16.617Z"
         }
       ]
     },
