@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T22:06:05.863Z",
+  "updatedAt": "2026-10-07T22:06:26.511Z",
   "problems": [
     {
       "frontendId": "1260",
@@ -63,6 +63,26 @@
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
           "sha": "590b924d5d3e2e898a46623177ac84a499ebbcd1",
           "lastSyncedAt": "2026-10-07T22:06:05.863Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "slug": "sorted-gcd-pair-queries",
+      "problemName": "3312-sorted-gcd-pair-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "folderPath": "3312-sorted-gcd-pair-queries/",
+      "readmePath": "3312-sorted-gcd-pair-queries/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3312-sorted-gcd-pair-queries.java",
+          "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.java",
+          "sha": "d2dd4b3690cee3e64811c68586e78bd3eda51bf2",
+          "lastSyncedAt": "2026-10-07T22:06:26.511Z"
         }
       ]
     },
