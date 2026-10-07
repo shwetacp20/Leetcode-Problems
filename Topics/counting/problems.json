@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "counting",
+    "name": "Counting"
+  },
+  "updatedAt": "2026-10-07T22:03:42.293Z",
+  "problems": [
+    {
+      "frontendId": "3720",
+      "title": "Lexicographically Smallest Permutation Greater Than Target",
+      "slug": "lexicographically-smallest-permutation-greater-than-target",
+      "problemName": "3720-lexicographically-smallest-permutation-greater-than-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/",
+      "folderPath": "3720-lexicographically-smallest-permutation-greater-than-target/",
+      "readmePath": "3720-lexicographically-smallest-permutation-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3720-lexicographically-smallest-permutation-greater-than-target.java",
+          "path": "3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.java",
+          "sha": "2f58544c92a4f6a217ad1699194a627895b1a663",
+          "lastSyncedAt": "2026-10-07T22:03:42.293Z"
+        }
+      ]
+    }
+  ]
+}
