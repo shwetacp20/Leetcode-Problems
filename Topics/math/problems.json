@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-07T22:04:56.331Z",
+  "updatedAt": "2026-10-07T22:05:08.123Z",
   "problems": [
     {
       "frontendId": "1872",
@@ -43,6 +43,26 @@
           "path": "1927-sum-game/1927-sum-game.java",
           "sha": "09567af833d1f9119c09d4ad2c5def2df3abe7fb",
           "lastSyncedAt": "2026-10-07T22:04:44.263Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3513",
+      "title": "Number of Unique XOR Triplets I",
+      "slug": "number-of-unique-xor-triplets-i",
+      "problemName": "3513-number-of-unique-xor-triplets-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-i/",
+      "folderPath": "3513-number-of-unique-xor-triplets-i/",
+      "readmePath": "3513-number-of-unique-xor-triplets-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3513-number-of-unique-xor-triplets-i.java",
+          "path": "3513-number-of-unique-xor-triplets-i/3513-number-of-unique-xor-triplets-i.java",
+          "sha": "8e3297c1cd036d5badf55620a5e69c0b29caef24",
+          "lastSyncedAt": "2026-10-07T22:05:08.123Z"
         }
       ]
     },
