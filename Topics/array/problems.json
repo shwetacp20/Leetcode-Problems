@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T22:06:26.511Z",
+  "updatedAt": "2026-10-07T22:06:53.579Z",
   "problems": [
     {
       "frontendId": "1260",
@@ -203,6 +203,26 @@
           "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.java",
           "sha": "e6757997efdbc71f68511c23801c2bdd4f1f600e",
           "lastSyncedAt": "2026-10-07T22:04:14.508Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3867",
+      "title": "Sum of GCD of Formed Pairs",
+      "slug": "sum-of-gcd-of-formed-pairs",
+      "problemName": "3867-sum-of-gcd-of-formed-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/",
+      "folderPath": "3867-sum-of-gcd-of-formed-pairs/",
+      "readmePath": "3867-sum-of-gcd-of-formed-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3867-sum-of-gcd-of-formed-pairs.java",
+          "path": "3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.java",
+          "sha": "8c1615c1308ddc9cef47b2a67da3c515f7ff073a",
+          "lastSyncedAt": "2026-10-07T22:06:53.579Z"
         }
       ]
     },
