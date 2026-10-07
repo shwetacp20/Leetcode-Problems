@@ -4,8 +4,28 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-10-07T22:08:19.291Z",
+  "updatedAt": "2026-10-07T22:10:08.754Z",
   "problems": [
+    {
+      "frontendId": "112",
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "problemName": "0112-path-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
+      "folderPath": "0112-path-sum/",
+      "readmePath": "0112-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0112-path-sum.java",
+          "path": "0112-path-sum/0112-path-sum.java",
+          "sha": "818188f849af57c9b16361b3281fb5d470dee6ce",
+          "lastSyncedAt": "2026-10-07T22:10:08.754Z"
+        }
+      ]
+    },
     {
       "frontendId": "2492",
       "title": "Minimum Score of a Path Between Two Cities",
