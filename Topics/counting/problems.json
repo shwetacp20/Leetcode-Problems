@@ -4,8 +4,28 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-10-07T22:03:42.293Z",
+  "updatedAt": "2026-10-07T22:06:26.511Z",
   "problems": [
+    {
+      "frontendId": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "slug": "sorted-gcd-pair-queries",
+      "problemName": "3312-sorted-gcd-pair-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "folderPath": "3312-sorted-gcd-pair-queries/",
+      "readmePath": "3312-sorted-gcd-pair-queries/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3312-sorted-gcd-pair-queries.java",
+          "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.java",
+          "sha": "d2dd4b3690cee3e64811c68586e78bd3eda51bf2",
+          "lastSyncedAt": "2026-10-07T22:06:26.511Z"
+        }
+      ]
+    },
     {
       "frontendId": "3720",
       "title": "Lexicographically Smallest Permutation Greater Than Target",
