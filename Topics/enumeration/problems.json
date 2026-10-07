@@ -4,8 +4,28 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-10-07T22:05:30.839Z",
+  "updatedAt": "2026-10-07T22:07:36.186Z",
   "problems": [
+    {
+      "frontendId": "1291",
+      "title": "Sequential Digits",
+      "slug": "sequential-digits",
+      "problemName": "1291-sequential-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sequential-digits/",
+      "folderPath": "1291-sequential-digits/",
+      "readmePath": "1291-sequential-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1291-sequential-digits.java",
+          "path": "1291-sequential-digits/1291-sequential-digits.java",
+          "sha": "21c9550902bc55d693cc6199040406978e3f1ecc",
+          "lastSyncedAt": "2026-10-07T22:07:36.186Z"
+        }
+      ]
+    },
     {
       "frontendId": "3499",
       "title": "Maximize Active Section with Trade I",
