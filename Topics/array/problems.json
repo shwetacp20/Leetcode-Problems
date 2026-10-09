@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "array",
-    "name": "Array"
+    "name": "Array",
+    "tagId": "5"
   },
-  "updatedAt": "2026-10-07T22:12:54.865Z",
+  "updatedAt": "2026-10-09T07:14:28.789Z",
   "problems": [
     {
       "frontendId": "1260",
@@ -262,7 +263,7 @@
           "filename": "3550-smallest-index-with-digit-sum-equal-to-index.java",
           "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "acf6cef677bc02791ea4fdb63c81020e145d1e2b",
-          "lastSyncedAt": "2026-10-07T22:11:36.351Z"
+          "lastSyncedAt": "2026-10-09T07:14:28.789Z"
         }
       ]
     },
