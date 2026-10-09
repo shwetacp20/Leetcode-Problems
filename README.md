@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 42 | 14 | 19 | 9 |
+| 43 | 15 | 19 | 9 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 13 days | 41 |
+| 3 days | 13 days | 42 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-25 | 1 |
 | 2026-08-26 | 1 |
 | 2026-08-27 | 1 |
 | 2026-09-01 | 1 |
@@ -30,12 +29,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-09-24 | 1 |
 | 2026-10-07 | 2 |
 | 2026-10-08 | 1 |
+| 2026-10-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 55% |
+| Array | 23 | 53% |
 | Math | 14 | 33% |
 | String | 9 | 21% |
 | Hash Table | 8 | 19% |
@@ -43,8 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Prefix Sum | 6 | 14% |
 | Enumeration | 5 | 12% |
 | Number Theory | 5 | 12% |
+| Database | 4 | 9% |
 | Binary Search | 3 | 7% |
-| Bit Manipulation | 3 | 7% |
 
 ## Topics
 
@@ -59,7 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 3 |
+| [Database](Topics/database/) | 4 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
