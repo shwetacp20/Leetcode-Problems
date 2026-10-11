@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-10T13:38:51.248Z",
+  "updatedAt": "2026-10-11T12:59:00.913Z",
   "problems": [
     {
       "frontendId": "183",
@@ -64,6 +64,26 @@
           "path": "1148-article-views-i/1148-article-views-i.py",
           "sha": "ff1122db47206b76d733cf0d04c952aeafc63dda",
           "lastSyncedAt": "2026-10-09T14:23:48.210Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1667",
+      "title": "Fix Names in a Table",
+      "slug": "fix-names-in-a-table",
+      "problemName": "1667-fix-names-in-a-table",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fix-names-in-a-table/",
+      "folderPath": "1667-fix-names-in-a-table/",
+      "readmePath": "1667-fix-names-in-a-table/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1667-fix-names-in-a-table.py",
+          "path": "1667-fix-names-in-a-table/1667-fix-names-in-a-table.py",
+          "sha": "49a9df922933437a30ac2d3b2eaa7af740ccd7bc",
+          "lastSyncedAt": "2026-10-11T12:59:00.913Z"
         }
       ]
     },
