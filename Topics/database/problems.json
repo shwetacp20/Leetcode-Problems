@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T12:59:00.913Z",
+  "updatedAt": "2026-10-12T13:47:53.871Z",
   "problems": [
     {
       "frontendId": "183",
@@ -64,6 +64,26 @@
           "path": "1148-article-views-i/1148-article-views-i.py",
           "sha": "ff1122db47206b76d733cf0d04c952aeafc63dda",
           "lastSyncedAt": "2026-10-09T14:23:48.210Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1517",
+      "title": "Find Users With Valid E-Mails",
+      "slug": "find-users-with-valid-e-mails",
+      "problemName": "1517-find-users-with-valid-e-mails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-users-with-valid-e-mails/",
+      "folderPath": "1517-find-users-with-valid-e-mails/",
+      "readmePath": "1517-find-users-with-valid-e-mails/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1517-find-users-with-valid-e-mails.py",
+          "path": "1517-find-users-with-valid-e-mails/1517-find-users-with-valid-e-mails.py",
+          "sha": "2e4288ba46885f8c6bc6660b921d348bbffb2d94",
+          "lastSyncedAt": "2026-10-12T13:47:53.871Z"
         }
       ]
     },
