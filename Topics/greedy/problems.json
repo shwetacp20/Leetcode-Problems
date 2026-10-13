@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T13:21:18.309Z",
+  "updatedAt": "2026-10-13T13:25:11.493Z",
   "problems": [
     {
       "frontendId": "1081",
@@ -44,6 +44,26 @@
           "path": "1927-sum-game/1927-sum-game.java",
           "sha": "09567af833d1f9119c09d4ad2c5def2df3abe7fb",
           "lastSyncedAt": "2026-10-13T13:20:29.275Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3691",
+      "title": "Maximum Total Subarray Value II",
+      "slug": "maximum-total-subarray-value-ii",
+      "problemName": "3691-maximum-total-subarray-value-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-subarray-value-ii/",
+      "folderPath": "3691-maximum-total-subarray-value-ii/",
+      "readmePath": "3691-maximum-total-subarray-value-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3691-maximum-total-subarray-value-ii.java",
+          "path": "3691-maximum-total-subarray-value-ii/3691-maximum-total-subarray-value-ii.java",
+          "sha": "e3ae38c22b083aeb0e5df9eff796551c39e64767",
+          "lastSyncedAt": "2026-10-13T13:25:11.493Z"
         }
       ]
     },
