@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sliding-window",
-    "name": "Sliding Window"
+    "name": "Sliding Window",
+    "tagId": "55821"
   },
-  "updatedAt": "2026-10-07T22:12:44.021Z",
+  "updatedAt": "2026-10-13T13:20:00.519Z",
   "problems": [
     {
       "frontendId": "2904",
@@ -22,7 +23,7 @@
           "filename": "2904-shortest-and-lexicographically-smallest-beautiful-string.java",
           "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.java",
           "sha": "6374fd02eb77d6a1fb9bf54e10fa6a93d9a53af7",
-          "lastSyncedAt": "2026-10-07T22:12:44.021Z"
+          "lastSyncedAt": "2026-10-13T13:20:00.519Z"
         }
       ]
     }
