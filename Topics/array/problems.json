@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T13:25:31.692Z",
+  "updatedAt": "2026-10-13T13:25:42.315Z",
   "problems": [
     {
       "frontendId": "1260",
@@ -144,6 +144,26 @@
           "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.java",
           "sha": "f83416a792199fa36084c52df356e15f60a962fb",
           "lastSyncedAt": "2026-10-13T13:25:31.692Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2196",
+      "title": "Create Binary Tree From Descriptions",
+      "slug": "create-binary-tree-from-descriptions",
+      "problemName": "2196-create-binary-tree-from-descriptions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/create-binary-tree-from-descriptions/",
+      "folderPath": "2196-create-binary-tree-from-descriptions/",
+      "readmePath": "2196-create-binary-tree-from-descriptions/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2196-create-binary-tree-from-descriptions.java",
+          "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.java",
+          "sha": "f826a4574727b53ac3ef12263068d2656fd0c6f6",
+          "lastSyncedAt": "2026-10-13T13:25:42.315Z"
         }
       ]
     },
