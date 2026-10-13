@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-13T13:23:50.198Z",
+  "updatedAt": "2026-10-13T13:26:07.711Z",
   "problems": [
     {
       "frontendId": "1872",
@@ -24,6 +24,26 @@
           "path": "1872-stone-game-viii/1872-stone-game-viii.java",
           "sha": "12120569f50a483d74e2f47d632db4a094b8cb23",
           "lastSyncedAt": "2026-10-13T13:20:11.584Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2574",
+      "title": "Left and Right Sum Differences",
+      "slug": "left-and-right-sum-differences",
+      "problemName": "2574-left-and-right-sum-differences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
+      "folderPath": "2574-left-and-right-sum-differences/",
+      "readmePath": "2574-left-and-right-sum-differences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2574-left-and-right-sum-differences.java",
+          "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.java",
+          "sha": "87ec27a4fc25da6a20121b94b2c0bcc4c7ccf03f",
+          "lastSyncedAt": "2026-10-13T13:26:07.711Z"
         }
       ]
     },
