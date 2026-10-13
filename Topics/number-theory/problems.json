@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-10-13T13:21:28.593Z",
+  "updatedAt": "2026-10-13T13:21:41.023Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -43,7 +43,7 @@
           "filename": "3312-sorted-gcd-pair-queries.java",
           "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.java",
           "sha": "d2dd4b3690cee3e64811c68586e78bd3eda51bf2",
-          "lastSyncedAt": "2026-10-07T22:06:26.511Z"
+          "lastSyncedAt": "2026-10-13T13:21:41.023Z"
         }
       ]
     },
