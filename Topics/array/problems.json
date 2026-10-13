@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T13:31:23.813Z",
+  "updatedAt": "2026-10-13T13:31:34.783Z",
   "problems": [
     {
       "frontendId": "1",
@@ -304,6 +304,26 @@
           "path": "1872-stone-game-viii/1872-stone-game-viii.java",
           "sha": "12120569f50a483d74e2f47d632db4a094b8cb23",
           "lastSyncedAt": "2026-10-13T13:20:11.584Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1914",
+      "title": "Cyclically Rotating a Grid",
+      "slug": "cyclically-rotating-a-grid",
+      "problemName": "1914-cyclically-rotating-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cyclically-rotating-a-grid/",
+      "folderPath": "1914-cyclically-rotating-a-grid/",
+      "readmePath": "1914-cyclically-rotating-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1914-cyclically-rotating-a-grid.java",
+          "path": "1914-cyclically-rotating-a-grid/1914-cyclically-rotating-a-grid.java",
+          "sha": "64ee36181a704d77c8cd4ece690e1c238f32a257",
+          "lastSyncedAt": "2026-10-13T13:31:34.783Z"
         }
       ]
     },
