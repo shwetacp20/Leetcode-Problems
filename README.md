@@ -6,18 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 46 | 18 | 19 | 9 |
+| 48 | 20 | 19 | 9 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 13 days | 44 |
+| 7 days | 13 days | 46 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-01 | 1 |
-| 2026-09-02 | 1 |
 | 2026-09-03 | 1 |
 | 2026-09-04 | 1 |
 | 2026-09-05 | 1 |
@@ -30,21 +28,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-09 | 1 |
 | 2026-10-10 | 2 |
 | 2026-10-11 | 1 |
+| 2026-10-12 | 1 |
+| 2026-10-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 50% |
-| Math | 14 | 30% |
-| String | 9 | 20% |
+| Array | 23 | 48% |
+| Math | 14 | 29% |
+| Database | 9 | 19% |
+| String | 9 | 19% |
 | Hash Table | 8 | 17% |
-| Database | 7 | 15% |
 | Dynamic Programming | 6 | 13% |
 | Prefix Sum | 6 | 13% |
-| Enumeration | 5 | 11% |
-| Number Theory | 5 | 11% |
-| Binary Search | 3 | 7% |
+| Enumeration | 5 | 10% |
+| Number Theory | 5 | 10% |
+| Binary Search | 3 | 6% |
 
 ## Topics
 
@@ -59,7 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 7 |
+| [Database](Topics/database/) | 9 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
