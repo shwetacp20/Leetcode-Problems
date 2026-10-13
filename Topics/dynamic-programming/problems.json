@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T13:24:43.639Z",
+  "updatedAt": "2026-10-13T13:26:29.214Z",
   "problems": [
     {
       "frontendId": "115",
@@ -144,6 +144,26 @@
           "path": "3620-network-recovery-pathways/3620-network-recovery-pathways.java",
           "sha": "5728568d1c59856cc246af78beed535fe6c3a52d",
           "lastSyncedAt": "2026-10-13T13:23:12.113Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3753",
+      "title": "Total Waviness of Numbers in Range II",
+      "slug": "total-waviness-of-numbers-in-range-ii",
+      "problemName": "3753-total-waviness-of-numbers-in-range-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/",
+      "folderPath": "3753-total-waviness-of-numbers-in-range-ii/",
+      "readmePath": "3753-total-waviness-of-numbers-in-range-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3753-total-waviness-of-numbers-in-range-ii.java",
+          "path": "3753-total-waviness-of-numbers-in-range-ii/3753-total-waviness-of-numbers-in-range-ii.java",
+          "sha": "ca582950098621a43492a19f12547d16ed7c3095",
+          "lastSyncedAt": "2026-10-13T13:26:29.214Z"
         }
       ]
     }
