@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T13:25:11.493Z",
+  "updatedAt": "2026-10-13T13:25:23.970Z",
   "problems": [
     {
       "frontendId": "1260",
@@ -324,6 +324,26 @@
           "path": "3620-network-recovery-pathways/3620-network-recovery-pathways.java",
           "sha": "5728568d1c59856cc246af78beed535fe6c3a52d",
           "lastSyncedAt": "2026-10-13T13:23:12.113Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3689",
+      "title": "Maximum Total Subarray Value I",
+      "slug": "maximum-total-subarray-value-i",
+      "problemName": "3689-maximum-total-subarray-value-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-subarray-value-i/",
+      "folderPath": "3689-maximum-total-subarray-value-i/",
+      "readmePath": "3689-maximum-total-subarray-value-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3689-maximum-total-subarray-value-i.java",
+          "path": "3689-maximum-total-subarray-value-i/3689-maximum-total-subarray-value-i.java",
+          "sha": "4bf40a25b723641a04be5d8c5dbb00cb86297263",
+          "lastSyncedAt": "2026-10-13T13:25:23.970Z"
         }
       ]
     },
