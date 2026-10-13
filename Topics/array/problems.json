@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T13:29:27.914Z",
+  "updatedAt": "2026-10-13T13:29:40.090Z",
   "problems": [
     {
       "frontendId": "33",
@@ -244,6 +244,26 @@
           "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.java",
           "sha": "87ec27a4fc25da6a20121b94b2c0bcc4c7ccf03f",
           "lastSyncedAt": "2026-10-13T13:26:07.711Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2657",
+      "title": "Find the Prefix Common Array of Two Arrays",
+      "slug": "find-the-prefix-common-array-of-two-arrays",
+      "problemName": "2657-find-the-prefix-common-array-of-two-arrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/",
+      "folderPath": "2657-find-the-prefix-common-array-of-two-arrays/",
+      "readmePath": "2657-find-the-prefix-common-array-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2657-find-the-prefix-common-array-of-two-arrays.java",
+          "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.java",
+          "sha": "79d6b089008982292ce47d763fa5cdaef9bef19f",
+          "lastSyncedAt": "2026-10-13T13:29:40.090Z"
         }
       ]
     },
