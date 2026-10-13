@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-13T13:24:15.896Z",
+  "updatedAt": "2026-10-13T13:26:51.640Z",
   "problems": [
+    {
+      "frontendId": "83",
+      "title": "Remove Duplicates from Sorted List",
+      "slug": "remove-duplicates-from-sorted-list",
+      "problemName": "0083-remove-duplicates-from-sorted-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+      "folderPath": "0083-remove-duplicates-from-sorted-list/",
+      "readmePath": "0083-remove-duplicates-from-sorted-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0083-remove-duplicates-from-sorted-list.java",
+          "path": "0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.java",
+          "sha": "0b380b7b46edcdb6d7c6b2866cfca604ebcb528a",
+          "lastSyncedAt": "2026-10-13T13:26:51.640Z"
+        }
+      ]
+    },
     {
       "frontendId": "2095",
       "title": "Delete the Middle Node of a Linked List",
