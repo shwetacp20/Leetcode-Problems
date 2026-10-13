@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T13:30:00.372Z",
+  "updatedAt": "2026-10-13T13:30:12.966Z",
   "problems": [
     {
       "frontendId": "33",
@@ -104,6 +104,26 @@
           "path": "1301-number-of-paths-with-max-score/1301-number-of-paths-with-max-score.java",
           "sha": "27dba72e14af2db0325c50578ff25026e0671a89",
           "lastSyncedAt": "2026-10-13T13:22:53.066Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1306",
+      "title": "Jump Game III",
+      "slug": "jump-game-iii",
+      "problemName": "1306-jump-game-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iii/",
+      "folderPath": "1306-jump-game-iii/",
+      "readmePath": "1306-jump-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1306-jump-game-iii.java",
+          "path": "1306-jump-game-iii/1306-jump-game-iii.java",
+          "sha": "c5ebf181cba499d2fc4d349382541e70dd469873",
+          "lastSyncedAt": "2026-10-13T13:30:12.966Z"
         }
       ]
     },
