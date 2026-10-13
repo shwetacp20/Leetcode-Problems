@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T13:30:00.372Z",
+  "updatedAt": "2026-10-13T13:30:49.830Z",
   "problems": [
     {
       "frontendId": "242",
@@ -104,6 +104,26 @@
           "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.java",
           "sha": "79d6b089008982292ce47d763fa5cdaef9bef19f",
           "lastSyncedAt": "2026-10-13T13:29:40.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2784",
+      "title": "Check if Array is Good",
+      "slug": "check-if-array-is-good",
+      "problemName": "2784-check-if-array-is-good",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-good/",
+      "folderPath": "2784-check-if-array-is-good/",
+      "readmePath": "2784-check-if-array-is-good/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2784-check-if-array-is-good.java",
+          "path": "2784-check-if-array-is-good/2784-check-if-array-is-good.java",
+          "sha": "f8fdad91680718e5195f6fc01188f404f57720ca",
+          "lastSyncedAt": "2026-10-13T13:30:49.830Z"
         }
       ]
     },
