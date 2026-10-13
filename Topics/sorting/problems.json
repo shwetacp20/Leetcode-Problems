@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T13:30:49.830Z",
+  "updatedAt": "2026-10-13T13:31:23.813Z",
   "problems": [
     {
       "frontendId": "88",
@@ -84,6 +84,26 @@
           "path": "1331-rank-transform-of-an-array/1331-rank-transform-of-an-array.java",
           "sha": "18bc2b8a15726aea8db7b9af6f78da49a902a3bd",
           "lastSyncedAt": "2026-10-13T13:22:38.225Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1665",
+      "title": "Minimum Initial Energy to Finish Tasks",
+      "slug": "minimum-initial-energy-to-finish-tasks",
+      "problemName": "1665-minimum-initial-energy-to-finish-tasks",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/",
+      "folderPath": "1665-minimum-initial-energy-to-finish-tasks/",
+      "readmePath": "1665-minimum-initial-energy-to-finish-tasks/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1665-minimum-initial-energy-to-finish-tasks.java",
+          "path": "1665-minimum-initial-energy-to-finish-tasks/1665-minimum-initial-energy-to-finish-tasks.java",
+          "sha": "aa9ac0a0ff0ed0cf443c1dc12530aed1f0b3f7a3",
+          "lastSyncedAt": "2026-10-13T13:31:23.813Z"
         }
       ]
     },
