@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T13:28:07.827Z",
+  "updatedAt": "2026-10-13T13:28:50.112Z",
   "problems": [
     {
       "frontendId": "5",
@@ -44,6 +44,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "f01c28e045937c2b89874cb2e469172a6d32fc41",
           "lastSyncedAt": "2026-10-13T13:28:07.827Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "0088-merge-sorted-array/",
+      "readmePath": "0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0088-merge-sorted-array.java",
+          "path": "0088-merge-sorted-array/0088-merge-sorted-array.java",
+          "sha": "ac595d102e7c2fad7e4c74c6df5cdf8bd9849e28",
+          "lastSyncedAt": "2026-10-13T13:28:50.112Z"
         }
       ]
     },
