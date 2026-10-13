@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "simulation",
-    "name": "Simulation"
+    "name": "Simulation",
+    "tagId": "61055"
   },
-  "updatedAt": "2026-10-07T22:09:43.172Z",
+  "updatedAt": "2026-10-13T13:21:09.141Z",
   "problems": [
     {
       "frontendId": "1260",
@@ -22,7 +23,7 @@
           "filename": "1260-shift-2d-grid.java",
           "path": "1260-shift-2d-grid/1260-shift-2d-grid.java",
           "sha": "f7ebaae84840ec5917781fecc1c2dacc0644365d",
-          "lastSyncedAt": "2026-10-07T22:05:38.419Z"
+          "lastSyncedAt": "2026-10-13T13:21:09.141Z"
         }
       ]
     },
