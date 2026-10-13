@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T13:24:15.896Z",
+  "updatedAt": "2026-10-13T13:25:31.692Z",
   "problems": [
     {
       "frontendId": "2095",
@@ -44,6 +44,26 @@
           "path": "2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.java",
           "sha": "42441b3ee82c59f4cbba72a348b4f41844dd712e",
           "lastSyncedAt": "2026-10-13T13:24:15.896Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2161",
+      "title": "Partition Array According to Given Pivot",
+      "slug": "partition-array-according-to-given-pivot",
+      "problemName": "2161-partition-array-according-to-given-pivot",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+      "folderPath": "2161-partition-array-according-to-given-pivot/",
+      "readmePath": "2161-partition-array-according-to-given-pivot/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2161-partition-array-according-to-given-pivot.java",
+          "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.java",
+          "sha": "f83416a792199fa36084c52df356e15f60a962fb",
+          "lastSyncedAt": "2026-10-13T13:25:31.692Z"
         }
       ]
     },
