@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T13:27:31.681Z",
+  "updatedAt": "2026-10-13T13:27:55.845Z",
   "problems": [
     {
       "frontendId": "1260",
@@ -204,6 +204,26 @@
           "path": "3020-find-the-maximum-number-of-elements-in-subset/3020-find-the-maximum-number-of-elements-in-subset.java",
           "sha": "9878816d5239e13f3d5e6bd87595795d07ec8575",
           "lastSyncedAt": "2026-10-13T13:23:28.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3093",
+      "title": "Longest Common Suffix Queries",
+      "slug": "longest-common-suffix-queries",
+      "problemName": "3093-longest-common-suffix-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-suffix-queries/",
+      "folderPath": "3093-longest-common-suffix-queries/",
+      "readmePath": "3093-longest-common-suffix-queries/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3093-longest-common-suffix-queries.java",
+          "path": "3093-longest-common-suffix-queries/3093-longest-common-suffix-queries.java",
+          "sha": "1ed753e70635ae9dd19aed0560e1bf3310bcf137",
+          "lastSyncedAt": "2026-10-13T13:27:55.845Z"
         }
       ]
     },
