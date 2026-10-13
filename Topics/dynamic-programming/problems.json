@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T13:23:12.113Z",
+  "updatedAt": "2026-10-13T13:24:43.639Z",
   "problems": [
     {
       "frontendId": "115",
@@ -104,6 +104,26 @@
           "path": "3336-find-the-number-of-subsequences-with-equal-gcd/3336-find-the-number-of-subsequences-with-equal-gcd.java",
           "sha": "e65ff8359881fb1d91cefc9f045830817ef578f0",
           "lastSyncedAt": "2026-10-13T13:22:20.711Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3559",
+      "title": "Number of Ways to Assign Edge Weights II",
+      "slug": "number-of-ways-to-assign-edge-weights-ii",
+      "problemName": "3559-number-of-ways-to-assign-edge-weights-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/",
+      "folderPath": "3559-number-of-ways-to-assign-edge-weights-ii/",
+      "readmePath": "3559-number-of-ways-to-assign-edge-weights-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3559-number-of-ways-to-assign-edge-weights-ii.java",
+          "path": "3559-number-of-ways-to-assign-edge-weights-ii/3559-number-of-ways-to-assign-edge-weights-ii.java",
+          "sha": "29834cdaca9d2d727b2910a5c5bc055a2b33b058",
+          "lastSyncedAt": "2026-10-13T13:24:43.639Z"
         }
       ]
     },
