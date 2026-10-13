@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-12T13:47:53.871Z",
+  "updatedAt": "2026-10-13T13:15:47.067Z",
   "problems": [
     {
       "frontendId": "183",
@@ -84,6 +84,26 @@
           "path": "1517-find-users-with-valid-e-mails/1517-find-users-with-valid-e-mails.py",
           "sha": "2e4288ba46885f8c6bc6660b921d348bbffb2d94",
           "lastSyncedAt": "2026-10-12T13:47:53.871Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1527",
+      "title": "Patients With a Condition",
+      "slug": "patients-with-a-condition",
+      "problemName": "1527-patients-with-a-condition",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/patients-with-a-condition/",
+      "folderPath": "1527-patients-with-a-condition/",
+      "readmePath": "1527-patients-with-a-condition/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1527-patients-with-a-condition.py",
+          "path": "1527-patients-with-a-condition/1527-patients-with-a-condition.py",
+          "sha": "2a96f900ff715d62a4ec25d9eb7ad1d271ac8e55",
+          "lastSyncedAt": "2026-10-13T13:15:47.067Z"
         }
       ]
     },
