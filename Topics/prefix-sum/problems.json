@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-13T13:26:07.711Z",
+  "updatedAt": "2026-10-13T13:29:00.463Z",
   "problems": [
+    {
+      "frontendId": "1871",
+      "title": "Jump Game VII",
+      "slug": "jump-game-vii",
+      "problemName": "1871-jump-game-vii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-vii/",
+      "folderPath": "1871-jump-game-vii/",
+      "readmePath": "1871-jump-game-vii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1871-jump-game-vii.java",
+          "path": "1871-jump-game-vii/1871-jump-game-vii.java",
+          "sha": "b71a9b3ed6c159ea7417171db7261409780fb7cb",
+          "lastSyncedAt": "2026-10-13T13:29:00.463Z"
+        }
+      ]
+    },
     {
       "frontendId": "1872",
       "title": "Stone Game VIII",
