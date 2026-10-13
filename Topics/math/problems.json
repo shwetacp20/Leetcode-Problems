@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T13:26:29.214Z",
+  "updatedAt": "2026-10-13T13:27:31.681Z",
   "problems": [
     {
       "frontendId": "67",
@@ -84,6 +84,26 @@
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
           "sha": "590b924d5d3e2e898a46623177ac84a499ebbcd1",
           "lastSyncedAt": "2026-10-13T13:21:28.593Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3300",
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "slug": "minimum-element-after-replacement-with-digit-sum",
+      "problemName": "3300-minimum-element-after-replacement-with-digit-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/",
+      "folderPath": "3300-minimum-element-after-replacement-with-digit-sum/",
+      "readmePath": "3300-minimum-element-after-replacement-with-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3300-minimum-element-after-replacement-with-digit-sum.java",
+          "path": "3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.java",
+          "sha": "9fa5c5f68f4cc8d9fed92afd1baab96e5437b499",
+          "lastSyncedAt": "2026-10-13T13:27:31.681Z"
         }
       ]
     },
