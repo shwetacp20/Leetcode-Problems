@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-13T13:24:22.662Z",
+  "updatedAt": "2026-10-13T13:25:42.315Z",
   "problems": [
     {
       "frontendId": "112",
@@ -24,6 +24,26 @@
           "path": "0112-path-sum/0112-path-sum.java",
           "sha": "818188f849af57c9b16361b3281fb5d470dee6ce",
           "lastSyncedAt": "2026-10-13T13:24:22.662Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2196",
+      "title": "Create Binary Tree From Descriptions",
+      "slug": "create-binary-tree-from-descriptions",
+      "problemName": "2196-create-binary-tree-from-descriptions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/create-binary-tree-from-descriptions/",
+      "folderPath": "2196-create-binary-tree-from-descriptions/",
+      "readmePath": "2196-create-binary-tree-from-descriptions/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2196-create-binary-tree-from-descriptions.java",
+          "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.java",
+          "sha": "f826a4574727b53ac3ef12263068d2656fd0c6f6",
+          "lastSyncedAt": "2026-10-13T13:25:42.315Z"
         }
       ]
     }
