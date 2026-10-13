@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "monotonic-stack",
-    "name": "Monotonic Stack"
+    "name": "Monotonic Stack",
+    "tagId": "61054"
   },
-  "updatedAt": "2026-10-07T22:05:51.856Z",
+  "updatedAt": "2026-10-13T13:21:18.309Z",
   "problems": [
     {
       "frontendId": "1081",
@@ -22,7 +23,7 @@
           "filename": "1081-smallest-subsequence-of-distinct-characters.java",
           "path": "1081-smallest-subsequence-of-distinct-characters/1081-smallest-subsequence-of-distinct-characters.java",
           "sha": "829dbd3ec690025248c844b8f1b10943a7ca7fb7",
-          "lastSyncedAt": "2026-10-07T22:05:51.856Z"
+          "lastSyncedAt": "2026-10-13T13:21:18.309Z"
         }
       ]
     }
