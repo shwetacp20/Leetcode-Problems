@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T13:25:42.315Z",
+  "updatedAt": "2026-10-13T13:26:07.711Z",
   "problems": [
     {
       "frontendId": "1260",
@@ -164,6 +164,26 @@
           "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.java",
           "sha": "f826a4574727b53ac3ef12263068d2656fd0c6f6",
           "lastSyncedAt": "2026-10-13T13:25:42.315Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2574",
+      "title": "Left and Right Sum Differences",
+      "slug": "left-and-right-sum-differences",
+      "problemName": "2574-left-and-right-sum-differences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
+      "folderPath": "2574-left-and-right-sum-differences/",
+      "readmePath": "2574-left-and-right-sum-differences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2574-left-and-right-sum-differences.java",
+          "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.java",
+          "sha": "87ec27a4fc25da6a20121b94b2c0bcc4c7ccf03f",
+          "lastSyncedAt": "2026-10-13T13:26:07.711Z"
         }
       ]
     },
