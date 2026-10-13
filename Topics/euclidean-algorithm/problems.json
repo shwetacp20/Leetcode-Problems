@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "euclidean-algorithm",
-    "name": "Euclidean Algorithm"
+    "name": "Euclidean Algorithm",
+    "tagId": "89463"
   },
-  "updatedAt": "2026-10-07T22:07:21.976Z",
+  "updatedAt": "2026-10-13T13:21:28.593Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -22,7 +23,7 @@
           "filename": "1979-find-greatest-common-divisor-of-array.java",
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
           "sha": "590b924d5d3e2e898a46623177ac84a499ebbcd1",
-          "lastSyncedAt": "2026-10-07T22:06:05.863Z"
+          "lastSyncedAt": "2026-10-13T13:21:28.593Z"
         }
       ]
     },
