@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T13:26:17.338Z",
+  "updatedAt": "2026-10-13T13:26:29.214Z",
   "problems": [
     {
       "frontendId": "67",
@@ -244,6 +244,26 @@
           "path": "3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.java",
           "sha": "b8d6fa95d998134ffeb3a34cafe26b08564ad12b",
           "lastSyncedAt": "2026-10-13T13:22:16.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3753",
+      "title": "Total Waviness of Numbers in Range II",
+      "slug": "total-waviness-of-numbers-in-range-ii",
+      "problemName": "3753-total-waviness-of-numbers-in-range-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/",
+      "folderPath": "3753-total-waviness-of-numbers-in-range-ii/",
+      "readmePath": "3753-total-waviness-of-numbers-in-range-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3753-total-waviness-of-numbers-in-range-ii.java",
+          "path": "3753-total-waviness-of-numbers-in-range-ii/3753-total-waviness-of-numbers-in-range-ii.java",
+          "sha": "ca582950098621a43492a19f12547d16ed7c3095",
+          "lastSyncedAt": "2026-10-13T13:26:29.214Z"
         }
       ]
     },
