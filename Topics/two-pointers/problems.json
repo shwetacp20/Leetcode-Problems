@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T13:25:31.692Z",
+  "updatedAt": "2026-10-13T13:26:37.209Z",
   "problems": [
     {
       "frontendId": "2095",
@@ -64,6 +64,26 @@
           "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.java",
           "sha": "f83416a792199fa36084c52df356e15f60a962fb",
           "lastSyncedAt": "2026-10-13T13:25:31.692Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3635",
+      "title": "Earliest Finish Time for Land and Water Rides II",
+      "slug": "earliest-finish-time-for-land-and-water-rides-ii",
+      "problemName": "3635-earliest-finish-time-for-land-and-water-rides-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/",
+      "folderPath": "3635-earliest-finish-time-for-land-and-water-rides-ii/",
+      "readmePath": "3635-earliest-finish-time-for-land-and-water-rides-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3635-earliest-finish-time-for-land-and-water-rides-ii.java",
+          "path": "3635-earliest-finish-time-for-land-and-water-rides-ii/3635-earliest-finish-time-for-land-and-water-rides-ii.java",
+          "sha": "6095347a9907fe6bd9f3af6b6e3de8299e95291c",
+          "lastSyncedAt": "2026-10-13T13:26:37.209Z"
         }
       ]
     },
