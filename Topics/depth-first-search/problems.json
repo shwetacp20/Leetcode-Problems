@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "depth-first-search",
-    "name": "Depth-First Search"
+    "name": "Depth-First Search",
+    "tagId": "21"
   },
-  "updatedAt": "2026-10-07T22:10:08.754Z",
+  "updatedAt": "2026-10-13T13:22:59.776Z",
   "problems": [
     {
       "frontendId": "112",
@@ -42,7 +43,7 @@
           "filename": "2492-minimum-score-of-a-path-between-two-cities.java",
           "path": "2492-minimum-score-of-a-path-between-two-cities/2492-minimum-score-of-a-path-between-two-cities.java",
           "sha": "ad29da1a7570b719bdb1569fd6f939c22a9cf657",
-          "lastSyncedAt": "2026-10-07T22:08:19.291Z"
+          "lastSyncedAt": "2026-10-13T13:22:59.776Z"
         }
       ]
     }
