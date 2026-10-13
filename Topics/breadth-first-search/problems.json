@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "breadth-first-search",
-    "name": "Breadth-First Search"
+    "name": "Breadth-First Search",
+    "tagId": "22"
   },
-  "updatedAt": "2026-10-07T22:12:18.924Z",
+  "updatedAt": "2026-10-13T13:19:32.463Z",
   "problems": [
     {
       "frontendId": "112",
@@ -62,7 +63,7 @@
           "filename": "3568-minimum-moves-to-clean-the-classroom.java",
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
           "sha": "cf271a691cee9dc854cb796df57ebdfa2cf513a7",
-          "lastSyncedAt": "2026-10-07T22:12:18.924Z"
+          "lastSyncedAt": "2026-10-13T13:19:32.463Z"
         }
       ]
     }
