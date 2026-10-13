@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "prefix-sum",
-    "name": "Prefix Sum"
+    "name": "Prefix Sum",
+    "tagId": "61068"
   },
-  "updatedAt": "2026-10-07T22:12:54.865Z",
+  "updatedAt": "2026-10-13T13:19:13.639Z",
   "problems": [
     {
       "frontendId": "1872",
@@ -122,7 +123,7 @@
           "filename": "3904-smallest-stable-index-ii.java",
           "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.java",
           "sha": "2d741954ae6dd7c589ff48d89cc51cb0404e2692",
-          "lastSyncedAt": "2026-10-07T22:11:54.863Z"
+          "lastSyncedAt": "2026-10-13T13:19:13.639Z"
         }
       ]
     }
