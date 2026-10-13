@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T13:24:43.639Z",
+  "updatedAt": "2026-10-13T13:24:59.921Z",
   "problems": [
     {
       "frontendId": "112",
@@ -44,6 +44,26 @@
           "path": "2492-minimum-score-of-a-path-between-two-cities/2492-minimum-score-of-a-path-between-two-cities.java",
           "sha": "ad29da1a7570b719bdb1569fd6f939c22a9cf657",
           "lastSyncedAt": "2026-10-13T13:22:59.776Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3558",
+      "title": "Number of Ways to Assign Edge Weights I",
+      "slug": "number-of-ways-to-assign-edge-weights-i",
+      "problemName": "3558-number-of-ways-to-assign-edge-weights-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/",
+      "folderPath": "3558-number-of-ways-to-assign-edge-weights-i/",
+      "readmePath": "3558-number-of-ways-to-assign-edge-weights-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3558-number-of-ways-to-assign-edge-weights-i.java",
+          "path": "3558-number-of-ways-to-assign-edge-weights-i/3558-number-of-ways-to-assign-edge-weights-i.java",
+          "sha": "eddcd4740db6a573f74747cc6fa259e8045f6ed9",
+          "lastSyncedAt": "2026-10-13T13:24:59.921Z"
         }
       ]
     },
