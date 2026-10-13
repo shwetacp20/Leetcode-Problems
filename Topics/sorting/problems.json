@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T13:22:47.741Z",
+  "updatedAt": "2026-10-13T13:25:55.338Z",
   "problems": [
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0242-valid-anagram.java",
+          "path": "0242-valid-anagram/0242-valid-anagram.java",
+          "sha": "ba895cef7bce5ba12f106cf1422da21dd411a034",
+          "lastSyncedAt": "2026-10-13T13:25:55.338Z"
+        }
+      ]
+    },
     {
       "frontendId": "1288",
       "title": "Remove Covered Intervals",
