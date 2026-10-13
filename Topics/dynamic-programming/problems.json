@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "dynamic-programming",
-    "name": "Dynamic Programming"
+    "name": "Dynamic Programming",
+    "tagId": "13"
   },
-  "updatedAt": "2026-10-07T22:12:54.865Z",
+  "updatedAt": "2026-10-13T13:19:03.091Z",
   "problems": [
     {
       "frontendId": "115",
@@ -42,7 +43,7 @@
           "filename": "0940-distinct-subsequences-ii.java",
           "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.java",
           "sha": "0cc73955bbd3eac215707e9b99ddac3fa2bbb769",
-          "lastSyncedAt": "2026-10-07T22:11:44.738Z"
+          "lastSyncedAt": "2026-10-13T13:19:03.091Z"
         }
       ]
     },
