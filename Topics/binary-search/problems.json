@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T13:20:52.850Z",
+  "updatedAt": "2026-10-13T13:21:41.023Z",
   "problems": [
     {
       "frontendId": "3312",
@@ -23,7 +23,7 @@
           "filename": "3312-sorted-gcd-pair-queries.java",
           "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.java",
           "sha": "d2dd4b3690cee3e64811c68586e78bd3eda51bf2",
-          "lastSyncedAt": "2026-10-07T22:06:26.511Z"
+          "lastSyncedAt": "2026-10-13T13:21:41.023Z"
         }
       ]
     },
