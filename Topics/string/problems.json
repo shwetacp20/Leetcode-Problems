@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T13:25:55.338Z",
+  "updatedAt": "2026-10-13T13:26:17.338Z",
   "problems": [
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0067-add-binary.java",
+          "path": "0067-add-binary/0067-add-binary.java",
+          "sha": "e62144454f2367b42fe0f615bc8dd83ae6911b3d",
+          "lastSyncedAt": "2026-10-13T13:26:17.338Z"
+        }
+      ]
+    },
     {
       "frontendId": "115",
       "title": "Distinct Subsequences",
