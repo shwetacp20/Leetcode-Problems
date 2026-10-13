@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T13:28:50.112Z",
+  "updatedAt": "2026-10-13T13:29:13.662Z",
   "problems": [
     {
       "frontendId": "88",
@@ -104,6 +104,26 @@
           "path": "1331-rank-transform-of-an-array/1331-rank-transform-of-an-array.java",
           "sha": "18bc2b8a15726aea8db7b9af6f78da49a902a3bd",
           "lastSyncedAt": "2026-10-13T13:22:38.225Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1752",
+      "title": "Check if Array Is Sorted and Rotated",
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "problemName": "1752-check-if-array-is-sorted-and-rotated",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+      "folderPath": "1752-check-if-array-is-sorted-and-rotated/",
+      "readmePath": "1752-check-if-array-is-sorted-and-rotated/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1752-check-if-array-is-sorted-and-rotated.java",
+          "path": "1752-check-if-array-is-sorted-and-rotated/1752-check-if-array-is-sorted-and-rotated.java",
+          "sha": "c0ae5e09b01063e3beefd039d27635e71abfa931",
+          "lastSyncedAt": "2026-10-13T13:29:13.662Z"
         }
       ]
     },
