@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T13:20:11.584Z",
+  "updatedAt": "2026-10-13T13:20:29.275Z",
   "problems": [
     {
       "frontendId": "1872",
@@ -43,7 +43,7 @@
           "filename": "1927-sum-game.java",
           "path": "1927-sum-game/1927-sum-game.java",
           "sha": "09567af833d1f9119c09d4ad2c5def2df3abe7fb",
-          "lastSyncedAt": "2026-10-07T22:13:10.980Z"
+          "lastSyncedAt": "2026-10-13T13:20:29.275Z"
         }
       ]
     },
