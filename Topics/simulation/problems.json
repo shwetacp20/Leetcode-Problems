@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T13:26:17.338Z",
+  "updatedAt": "2026-10-13T13:31:34.783Z",
   "problems": [
     {
       "frontendId": "67",
@@ -44,6 +44,26 @@
           "path": "1260-shift-2d-grid/1260-shift-2d-grid.java",
           "sha": "f7ebaae84840ec5917781fecc1c2dacc0644365d",
           "lastSyncedAt": "2026-10-13T13:21:09.141Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1914",
+      "title": "Cyclically Rotating a Grid",
+      "slug": "cyclically-rotating-a-grid",
+      "problemName": "1914-cyclically-rotating-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cyclically-rotating-a-grid/",
+      "folderPath": "1914-cyclically-rotating-a-grid/",
+      "readmePath": "1914-cyclically-rotating-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1914-cyclically-rotating-a-grid.java",
+          "path": "1914-cyclically-rotating-a-grid/1914-cyclically-rotating-a-grid.java",
+          "sha": "64ee36181a704d77c8cd4ece690e1c238f32a257",
+          "lastSyncedAt": "2026-10-13T13:31:34.783Z"
         }
       ]
     },
