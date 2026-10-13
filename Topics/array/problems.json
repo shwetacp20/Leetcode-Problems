@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T13:25:23.970Z",
+  "updatedAt": "2026-10-13T13:25:31.692Z",
   "problems": [
     {
       "frontendId": "1260",
@@ -124,6 +124,26 @@
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
           "sha": "590b924d5d3e2e898a46623177ac84a499ebbcd1",
           "lastSyncedAt": "2026-10-13T13:21:28.593Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2161",
+      "title": "Partition Array According to Given Pivot",
+      "slug": "partition-array-according-to-given-pivot",
+      "problemName": "2161-partition-array-according-to-given-pivot",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+      "folderPath": "2161-partition-array-according-to-given-pivot/",
+      "readmePath": "2161-partition-array-according-to-given-pivot/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2161-partition-array-according-to-given-pivot.java",
+          "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.java",
+          "sha": "f83416a792199fa36084c52df356e15f60a962fb",
+          "lastSyncedAt": "2026-10-13T13:25:31.692Z"
         }
       ]
     },
