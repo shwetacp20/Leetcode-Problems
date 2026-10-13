@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T13:26:58.198Z",
+  "updatedAt": "2026-10-13T13:27:12.737Z",
   "problems": [
+    {
+      "frontendId": "3161",
+      "title": "Block Placement Queries",
+      "slug": "block-placement-queries",
+      "problemName": "3161-block-placement-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/block-placement-queries/",
+      "folderPath": "3161-block-placement-queries/",
+      "readmePath": "3161-block-placement-queries/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3161-block-placement-queries.java",
+          "path": "3161-block-placement-queries/3161-block-placement-queries.java",
+          "sha": "624f5b2185669685e8d13dbdc89c0b60c1ac7515",
+          "lastSyncedAt": "2026-10-13T13:27:12.737Z"
+        }
+      ]
+    },
     {
       "frontendId": "3312",
       "title": "Sorted GCD Pair Queries",
