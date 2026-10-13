@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T13:24:04.426Z",
+  "updatedAt": "2026-10-13T13:24:34.629Z",
   "problems": [
     {
       "frontendId": "115",
@@ -184,6 +184,26 @@
           "path": "3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.java",
           "sha": "2f58544c92a4f6a217ad1699194a627895b1a663",
           "lastSyncedAt": "2026-10-13T13:19:46.901Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3838",
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "problemName": "3838-weighted-word-mapping",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+      "folderPath": "3838-weighted-word-mapping/",
+      "readmePath": "3838-weighted-word-mapping/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3838-weighted-word-mapping.java",
+          "path": "3838-weighted-word-mapping/3838-weighted-word-mapping.java",
+          "sha": "77563335fab9840585653f6b15817c8c984538a2",
+          "lastSyncedAt": "2026-10-13T13:24:34.629Z"
         }
       ]
     }
