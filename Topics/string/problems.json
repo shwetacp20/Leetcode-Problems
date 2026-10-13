@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T13:28:07.827Z",
+  "updatedAt": "2026-10-13T13:28:33.024Z",
   "problems": [
     {
       "frontendId": "5",
@@ -204,6 +204,26 @@
           "path": "3093-longest-common-suffix-queries/3093-longest-common-suffix-queries.java",
           "sha": "1ed753e70635ae9dd19aed0560e1bf3310bcf137",
           "lastSyncedAt": "2026-10-13T13:27:55.845Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3121",
+      "title": "Count the Number of Special Characters II",
+      "slug": "count-the-number-of-special-characters-ii",
+      "problemName": "3121-count-the-number-of-special-characters-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-special-characters-ii/",
+      "folderPath": "3121-count-the-number-of-special-characters-ii/",
+      "readmePath": "3121-count-the-number-of-special-characters-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3121-count-the-number-of-special-characters-ii.java",
+          "path": "3121-count-the-number-of-special-characters-ii/3121-count-the-number-of-special-characters-ii.java",
+          "sha": "46d8e952f47ffad1496126c9da147065b10880ef",
+          "lastSyncedAt": "2026-10-13T13:28:33.024Z"
         }
       ]
     },
