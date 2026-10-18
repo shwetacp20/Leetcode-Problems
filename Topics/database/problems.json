@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-17T14:58:36.307Z",
+  "updatedAt": "2026-10-18T18:19:31.765Z",
   "problems": [
     {
       "frontendId": "176",
@@ -104,6 +104,26 @@
           "path": "0184-department-highest-salary/0184-department-highest-salary.py",
           "sha": "245ce4ac71e4ea4f2214df1d882d0beeed10158e",
           "lastSyncedAt": "2026-10-16T14:14:16.957Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "196",
+      "title": "Delete Duplicate Emails",
+      "slug": "delete-duplicate-emails",
+      "problemName": "0196-delete-duplicate-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-duplicate-emails/",
+      "folderPath": "0196-delete-duplicate-emails/",
+      "readmePath": "0196-delete-duplicate-emails/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "0196-delete-duplicate-emails.py",
+          "path": "0196-delete-duplicate-emails/0196-delete-duplicate-emails.py",
+          "sha": "6eb674caca8ddefaff411daecf3a94bb9690e6b5",
+          "lastSyncedAt": "2026-10-18T18:19:31.765Z"
         }
       ]
     },
