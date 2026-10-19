@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-18T18:21:58.213Z",
+  "updatedAt": "2026-10-19T14:58:03.622Z",
   "problems": [
     {
       "frontendId": "176",
@@ -264,6 +264,26 @@
           "path": "1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.py",
           "sha": "0514eaf21f3ce040f0b2609d0a3db5134025e801",
           "lastSyncedAt": "2026-10-14T15:21:07.669Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1795",
+      "title": "Rearrange Products Table",
+      "slug": "rearrange-products-table",
+      "problemName": "1795-rearrange-products-table",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-products-table/",
+      "folderPath": "1795-rearrange-products-table/",
+      "readmePath": "1795-rearrange-products-table/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1795-rearrange-products-table.py",
+          "path": "1795-rearrange-products-table/1795-rearrange-products-table.py",
+          "sha": "e63d1aabf3b313690f1aa48de76e410ef9911d67",
+          "lastSyncedAt": "2026-10-19T14:58:03.622Z"
         }
       ]
     },
