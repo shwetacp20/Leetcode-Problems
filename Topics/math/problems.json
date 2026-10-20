@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-20T17:46:11.558Z",
+  "updatedAt": "2026-10-20T17:46:50.772Z",
   "problems": [
     {
       "frontendId": "9",
@@ -63,7 +63,7 @@
           "filename": "1872-stone-game-viii.java",
           "path": "1872-stone-game-viii/1872-stone-game-viii.java",
           "sha": "12120569f50a483d74e2f47d632db4a094b8cb23",
-          "lastSyncedAt": "2026-10-13T13:20:11.584Z"
+          "lastSyncedAt": "2026-10-20T17:46:50.772Z"
         }
       ]
     },
