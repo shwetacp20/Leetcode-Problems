@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-19T14:58:03.622Z",
+  "updatedAt": "2026-10-20T17:44:05.478Z",
   "problems": [
     {
       "frontendId": "176",
@@ -304,6 +304,26 @@
           "path": "1873-calculate-special-bonus/1873-calculate-special-bonus.py",
           "sha": "d7ec0e8923749363130d5898a10037c48c5d4d36",
           "lastSyncedAt": "2026-10-14T15:20:56.288Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1907",
+      "title": "Count Salary Categories",
+      "slug": "count-salary-categories",
+      "problemName": "1907-count-salary-categories",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-salary-categories/",
+      "folderPath": "1907-count-salary-categories/",
+      "readmePath": "1907-count-salary-categories/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1907-count-salary-categories.py",
+          "path": "1907-count-salary-categories/1907-count-salary-categories.py",
+          "sha": "f2934030e216fcf7998f65eca39d450f7d4695a4",
+          "lastSyncedAt": "2026-10-20T17:44:05.478Z"
         }
       ]
     }
