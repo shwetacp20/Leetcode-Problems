@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-13T13:29:00.463Z",
+  "updatedAt": "2026-10-20T17:46:41.047Z",
   "problems": [
     {
       "frontendId": "1871",
@@ -43,7 +43,7 @@
           "filename": "2904-shortest-and-lexicographically-smallest-beautiful-string.java",
           "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.java",
           "sha": "6374fd02eb77d6a1fb9bf54e10fa6a93d9a53af7",
-          "lastSyncedAt": "2026-10-13T13:20:00.519Z"
+          "lastSyncedAt": "2026-10-20T17:46:41.047Z"
         }
       ]
     }
