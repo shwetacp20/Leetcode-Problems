@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-13T13:31:34.783Z",
+  "updatedAt": "2026-10-20T17:46:16.878Z",
   "problems": [
     {
       "frontendId": "1260",
@@ -83,7 +83,7 @@
           "filename": "3568-minimum-moves-to-clean-the-classroom.java",
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
           "sha": "cf271a691cee9dc854cb796df57ebdfa2cf513a7",
-          "lastSyncedAt": "2026-10-13T13:19:32.463Z"
+          "lastSyncedAt": "2026-10-20T17:46:16.878Z"
         }
       ]
     }
