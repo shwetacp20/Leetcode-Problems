@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-13T13:23:50.198Z",
+  "updatedAt": "2026-10-20T17:46:29.785Z",
   "problems": [
     {
       "frontendId": "3312",
@@ -43,7 +43,7 @@
           "filename": "3720-lexicographically-smallest-permutation-greater-than-target.java",
           "path": "3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.java",
           "sha": "2f58544c92a4f6a217ad1699194a627895b1a663",
-          "lastSyncedAt": "2026-10-13T13:19:46.901Z"
+          "lastSyncedAt": "2026-10-20T17:46:29.785Z"
         }
       ]
     },
