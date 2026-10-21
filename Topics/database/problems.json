@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-20T17:45:33.152Z",
+  "updatedAt": "2026-10-21T15:56:37.815Z",
   "problems": [
     {
       "frontendId": "176",
@@ -244,6 +244,26 @@
           "path": "1683-invalid-tweets/1683-invalid-tweets.py",
           "sha": "60ce244bb99f14885f8ec7e9c6591a3f5d2aff2d",
           "lastSyncedAt": "2026-10-20T17:45:21.887Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1741",
+      "title": "Find Total Time Spent by Each Employee",
+      "slug": "find-total-time-spent-by-each-employee",
+      "problemName": "1741-find-total-time-spent-by-each-employee",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-total-time-spent-by-each-employee/",
+      "folderPath": "1741-find-total-time-spent-by-each-employee/",
+      "readmePath": "1741-find-total-time-spent-by-each-employee/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1741-find-total-time-spent-by-each-employee.py",
+          "path": "1741-find-total-time-spent-by-each-employee/1741-find-total-time-spent-by-each-employee.py",
+          "sha": "a9f8d7764fdf886c1b06fe505576e9b39e8e3ce9",
+          "lastSyncedAt": "2026-10-21T15:56:37.815Z"
         }
       ]
     },
