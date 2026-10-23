@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-21T15:56:37.815Z",
+  "updatedAt": "2026-10-23T14:37:53.224Z",
   "problems": [
     {
       "frontendId": "176",
@@ -124,6 +124,26 @@
           "path": "0196-delete-duplicate-emails/0196-delete-duplicate-emails.py",
           "sha": "6eb674caca8ddefaff411daecf3a94bb9690e6b5",
           "lastSyncedAt": "2026-10-20T17:44:54.960Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "511",
+      "title": "Game Play Analysis I",
+      "slug": "game-play-analysis-i",
+      "problemName": "0511-game-play-analysis-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/game-play-analysis-i/",
+      "folderPath": "0511-game-play-analysis-i/",
+      "readmePath": "0511-game-play-analysis-i/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "0511-game-play-analysis-i.py",
+          "path": "0511-game-play-analysis-i/0511-game-play-analysis-i.py",
+          "sha": "820f3c6a28450fb46ce659553b15aafa014089db",
+          "lastSyncedAt": "2026-10-23T14:37:53.224Z"
         }
       ]
     },
