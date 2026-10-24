@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-24T17:54:43.573Z",
+  "updatedAt": "2026-10-24T17:55:07.215Z",
   "problems": [
     {
       "frontendId": "67",
@@ -143,7 +143,7 @@
           "filename": "3838-weighted-word-mapping.java",
           "path": "3838-weighted-word-mapping/3838-weighted-word-mapping.java",
           "sha": "77563335fab9840585653f6b15817c8c984538a2",
-          "lastSyncedAt": "2026-10-24T17:36:58.593Z"
+          "lastSyncedAt": "2026-10-24T17:55:07.215Z"
         }
       ]
     },
