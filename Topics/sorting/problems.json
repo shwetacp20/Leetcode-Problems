@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-24T17:43:34.247Z",
+  "updatedAt": "2026-10-24T17:52:58.912Z",
   "problems": [
     {
       "frontendId": "88",
@@ -203,7 +203,7 @@
           "filename": "3867-sum-of-gcd-of-formed-pairs.java",
           "path": "3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.java",
           "sha": "8c1615c1308ddc9cef47b2a67da3c515f7ff073a",
-          "lastSyncedAt": "2026-10-24T17:34:54.799Z"
+          "lastSyncedAt": "2026-10-24T17:52:58.912Z"
         }
       ]
     }
