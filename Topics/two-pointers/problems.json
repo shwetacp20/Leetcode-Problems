@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-24T17:41:58.912Z",
+  "updatedAt": "2026-10-24T17:42:29.131Z",
   "problems": [
     {
       "frontendId": "5",
@@ -24,6 +24,26 @@
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.java",
           "sha": "5071551baf21105c6b95bfdad0218a02fbf6c88b",
           "lastSyncedAt": "2026-10-24T17:38:58.199Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0026-remove-duplicates-from-sorted-array.java",
+          "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.java",
+          "sha": "89cd9a9e043369f06af3efb8da35b9456696c1f7",
+          "lastSyncedAt": "2026-10-24T17:42:29.131Z"
         }
       ]
     },
