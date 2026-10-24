@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-24T17:42:51.853Z",
+  "updatedAt": "2026-10-24T17:43:48.583Z",
   "problems": [
     {
       "frontendId": "3",
@@ -284,6 +284,26 @@
           "path": "1927-sum-game/1927-sum-game.java",
           "sha": "09567af833d1f9119c09d4ad2c5def2df3abe7fb",
           "lastSyncedAt": "2026-10-24T17:33:36.762Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2833",
+      "title": "Furthest Point From Origin",
+      "slug": "furthest-point-from-origin",
+      "problemName": "2833-furthest-point-from-origin",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/furthest-point-from-origin/",
+      "folderPath": "2833-furthest-point-from-origin/",
+      "readmePath": "2833-furthest-point-from-origin/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2833-furthest-point-from-origin.java",
+          "path": "2833-furthest-point-from-origin/2833-furthest-point-from-origin.java",
+          "sha": "2c13d9b7ff001f2cbae90fca4a452c6c77d9af99",
+          "lastSyncedAt": "2026-10-24T17:43:48.583Z"
         }
       ]
     },
