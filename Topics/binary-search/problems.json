@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-24T17:43:34.247Z",
+  "updatedAt": "2026-10-24T17:52:03.713Z",
   "problems": [
     {
       "frontendId": "33",
@@ -163,7 +163,7 @@
           "filename": "3501-maximize-active-section-with-trade-ii.java",
           "path": "3501-maximize-active-section-with-trade-ii/3501-maximize-active-section-with-trade-ii.java",
           "sha": "30020dd6558465e3c8dd2583ba0b0a8259b0bc1b",
-          "lastSyncedAt": "2026-10-24T17:33:58.063Z"
+          "lastSyncedAt": "2026-10-24T17:52:03.713Z"
         }
       ]
     },
