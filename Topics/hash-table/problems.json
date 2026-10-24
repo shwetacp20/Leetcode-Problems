@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-24T17:42:43.052Z",
+  "updatedAt": "2026-10-24T17:42:51.853Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "ce9c2ff20552aa074c630e21df4651bcfc60e1ab",
           "lastSyncedAt": "2026-10-24T17:42:43.052Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "12",
+      "title": "Integer to Roman",
+      "slug": "integer-to-roman",
+      "problemName": "0012-integer-to-roman",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman/",
+      "folderPath": "0012-integer-to-roman/",
+      "readmePath": "0012-integer-to-roman/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0012-integer-to-roman.java",
+          "path": "0012-integer-to-roman/0012-integer-to-roman.java",
+          "sha": "7e3801a263c21bebbf2049508f786bb5ddf4c126",
+          "lastSyncedAt": "2026-10-24T17:42:51.853Z"
         }
       ]
     },
