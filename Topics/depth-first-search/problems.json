@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-24T17:37:04.839Z",
+  "updatedAt": "2026-10-24T17:37:17.669Z",
   "problems": [
     {
       "frontendId": "112",
@@ -83,7 +83,7 @@
           "filename": "3558-number-of-ways-to-assign-edge-weights-i.java",
           "path": "3558-number-of-ways-to-assign-edge-weights-i/3558-number-of-ways-to-assign-edge-weights-i.java",
           "sha": "eddcd4740db6a573f74747cc6fa259e8045f6ed9",
-          "lastSyncedAt": "2026-10-13T13:24:59.921Z"
+          "lastSyncedAt": "2026-10-24T17:37:17.669Z"
         }
       ]
     },
