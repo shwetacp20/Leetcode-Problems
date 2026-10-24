@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-24T17:40:22.706Z",
+  "updatedAt": "2026-10-24T17:41:08.351Z",
   "problems": [
     {
       "frontendId": "112",
@@ -104,6 +104,26 @@
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
           "sha": "cf271a691cee9dc854cb796df57ebdfa2cf513a7",
           "lastSyncedAt": "2026-10-24T17:32:49.866Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3629",
+      "title": "Minimum Jumps to Reach End via Prime Teleportation",
+      "slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
+      "problemName": "3629-minimum-jumps-to-reach-end-via-prime-teleportation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/",
+      "folderPath": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/",
+      "readmePath": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3629-minimum-jumps-to-reach-end-via-prime-teleportation.java",
+          "path": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/3629-minimum-jumps-to-reach-end-via-prime-teleportation.java",
+          "sha": "d0635796f6334effa3de7e368c0396c51fb5de51",
+          "lastSyncedAt": "2026-10-24T17:41:08.351Z"
         }
       ]
     }
