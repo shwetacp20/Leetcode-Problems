@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T17:35:31.247Z",
+  "updatedAt": "2026-10-24T17:35:35.343Z",
   "problems": [
     {
       "frontendId": "1",
@@ -163,7 +163,7 @@
           "filename": "1301-number-of-paths-with-max-score.java",
           "path": "1301-number-of-paths-with-max-score/1301-number-of-paths-with-max-score.java",
           "sha": "27dba72e14af2db0325c50578ff25026e0671a89",
-          "lastSyncedAt": "2026-10-13T13:22:53.066Z"
+          "lastSyncedAt": "2026-10-24T17:35:35.343Z"
         }
       ]
     },
