@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-24T17:38:19.301Z",
+  "updatedAt": "2026-10-24T17:41:58.912Z",
   "problems": [
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "0061-rotate-list/",
+      "readmePath": "0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0061-rotate-list.java",
+          "path": "0061-rotate-list/0061-rotate-list.java",
+          "sha": "43fc0dcff349041a2e84e8e39883712bbe41f1b5",
+          "lastSyncedAt": "2026-10-24T17:41:58.912Z"
+        }
+      ]
+    },
     {
       "frontendId": "83",
       "title": "Remove Duplicates from Sorted List",
