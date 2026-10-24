@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-24T17:43:24.211Z",
+  "updatedAt": "2026-10-24T17:43:34.247Z",
   "problems": [
     {
       "frontendId": "7",
@@ -304,6 +304,26 @@
           "path": "3336-find-the-number-of-subsequences-with-equal-gcd/3336-find-the-number-of-subsequences-with-equal-gcd.java",
           "sha": "e65ff8359881fb1d91cefc9f045830817ef578f0",
           "lastSyncedAt": "2026-10-24T17:35:10.334Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3464",
+      "title": "Maximize the Distance Between Points on a Square",
+      "slug": "maximize-the-distance-between-points-on-a-square",
+      "problemName": "3464-maximize-the-distance-between-points-on-a-square",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/",
+      "folderPath": "3464-maximize-the-distance-between-points-on-a-square/",
+      "readmePath": "3464-maximize-the-distance-between-points-on-a-square/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3464-maximize-the-distance-between-points-on-a-square.java",
+          "path": "3464-maximize-the-distance-between-points-on-a-square/3464-maximize-the-distance-between-points-on-a-square.java",
+          "sha": "cd6dd2bec374eb0399b75b6af071af96ba3d97af",
+          "lastSyncedAt": "2026-10-24T17:43:34.247Z"
         }
       ]
     },
