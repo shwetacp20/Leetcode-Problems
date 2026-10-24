@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-24T17:42:43.052Z",
+  "updatedAt": "2026-10-24T17:42:51.853Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.java",
           "sha": "5071551baf21105c6b95bfdad0218a02fbf6c88b",
           "lastSyncedAt": "2026-10-24T17:38:58.199Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "12",
+      "title": "Integer to Roman",
+      "slug": "integer-to-roman",
+      "problemName": "0012-integer-to-roman",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman/",
+      "folderPath": "0012-integer-to-roman/",
+      "readmePath": "0012-integer-to-roman/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0012-integer-to-roman.java",
+          "path": "0012-integer-to-roman/0012-integer-to-roman.java",
+          "sha": "7e3801a263c21bebbf2049508f786bb5ddf4c126",
+          "lastSyncedAt": "2026-10-24T17:42:51.853Z"
         }
       ]
     },
