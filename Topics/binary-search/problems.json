@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-24T17:40:29.031Z",
+  "updatedAt": "2026-10-24T17:40:33.029Z",
   "problems": [
     {
       "frontendId": "33",
@@ -43,7 +43,7 @@
           "filename": "0153-find-minimum-in-rotated-sorted-array.java",
           "path": "0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.java",
           "sha": "440885b613cac620ef053b9b6ed0f04bba1460d5",
-          "lastSyncedAt": "2026-10-13T13:30:34.774Z"
+          "lastSyncedAt": "2026-10-24T17:40:33.029Z"
         }
       ]
     },
