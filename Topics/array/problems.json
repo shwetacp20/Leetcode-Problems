@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T17:41:08.351Z",
+  "updatedAt": "2026-10-24T17:41:32.183Z",
   "problems": [
     {
       "frontendId": "1",
@@ -784,6 +784,26 @@
           "path": "3635-earliest-finish-time-for-land-and-water-rides-ii/3635-earliest-finish-time-for-land-and-water-rides-ii.java",
           "sha": "6095347a9907fe6bd9f3af6b6e3de8299e95291c",
           "lastSyncedAt": "2026-10-24T17:38:09.788Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3660",
+      "title": "Jump Game IX",
+      "slug": "jump-game-ix",
+      "problemName": "3660-jump-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-ix/",
+      "folderPath": "3660-jump-game-ix/",
+      "readmePath": "3660-jump-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3660-jump-game-ix.java",
+          "path": "3660-jump-game-ix/3660-jump-game-ix.java",
+          "sha": "b3fe957a7192b5cf4cc60b86aa5881f6af7b1315",
+          "lastSyncedAt": "2026-10-24T17:41:32.183Z"
         }
       ]
     },
