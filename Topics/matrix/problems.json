@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-24T17:41:39.285Z",
+  "updatedAt": "2026-10-24T17:42:13.350Z",
   "problems": [
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0048-rotate-image.java",
+          "path": "0048-rotate-image/0048-rotate-image.java",
+          "sha": "92ecc824c00836fe6db4cd7101d8312e52f8f1bb",
+          "lastSyncedAt": "2026-10-24T17:42:13.350Z"
+        }
+      ]
+    },
     {
       "frontendId": "1260",
       "title": "Shift 2D Grid",
