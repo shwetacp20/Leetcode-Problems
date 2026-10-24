@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-23T14:37:53.224Z",
+  "updatedAt": "2026-10-24T17:30:44.299Z",
   "problems": [
     {
       "frontendId": "176",
@@ -364,6 +364,26 @@
           "path": "1907-count-salary-categories/1907-count-salary-categories.py",
           "sha": "f2934030e216fcf7998f65eca39d450f7d4695a4",
           "lastSyncedAt": "2026-10-20T17:44:50.550Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2356",
+      "title": "Number of Unique Subjects Taught by Each Teacher",
+      "slug": "number-of-unique-subjects-taught-by-each-teacher",
+      "problemName": "2356-number-of-unique-subjects-taught-by-each-teacher",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/",
+      "folderPath": "2356-number-of-unique-subjects-taught-by-each-teacher/",
+      "readmePath": "2356-number-of-unique-subjects-taught-by-each-teacher/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "2356-number-of-unique-subjects-taught-by-each-teacher.py",
+          "path": "2356-number-of-unique-subjects-taught-by-each-teacher/2356-number-of-unique-subjects-taught-by-each-teacher.py",
+          "sha": "30b68c9d288c73e7251f1ca643ff5e5d0027c276",
+          "lastSyncedAt": "2026-10-24T17:30:44.299Z"
         }
       ]
     }
