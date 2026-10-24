@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-20T17:47:23.267Z",
+  "updatedAt": "2026-10-24T17:32:49.866Z",
   "problems": [
     {
       "frontendId": "67",
@@ -123,7 +123,7 @@
           "filename": "3568-minimum-moves-to-clean-the-classroom.java",
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
           "sha": "cf271a691cee9dc854cb796df57ebdfa2cf513a7",
-          "lastSyncedAt": "2026-10-20T17:46:16.878Z"
+          "lastSyncedAt": "2026-10-24T17:32:49.866Z"
         }
       ]
     }
