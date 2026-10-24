@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T17:34:37.105Z",
+  "updatedAt": "2026-10-24T17:34:54.799Z",
   "problems": [
     {
       "frontendId": "1",
@@ -903,7 +903,7 @@
           "filename": "3867-sum-of-gcd-of-formed-pairs.java",
           "path": "3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.java",
           "sha": "8c1615c1308ddc9cef47b2a67da3c515f7ff073a",
-          "lastSyncedAt": "2026-10-13T13:22:03.004Z"
+          "lastSyncedAt": "2026-10-24T17:34:54.799Z"
         }
       ]
     },
