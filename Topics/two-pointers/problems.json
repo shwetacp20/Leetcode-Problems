@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-24T17:41:20.408Z",
+  "updatedAt": "2026-10-24T17:41:39.285Z",
   "problems": [
     {
       "frontendId": "5",
@@ -104,6 +104,26 @@
           "path": "0202-happy-number/0202-happy-number.java",
           "sha": "a90bf25ca6b100d5c2e4bf8e8e00e5071cef854c",
           "lastSyncedAt": "2026-10-24T17:41:20.408Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1861",
+      "title": "Rotating the Box",
+      "slug": "rotating-the-box",
+      "problemName": "1861-rotating-the-box",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotating-the-box/",
+      "folderPath": "1861-rotating-the-box/",
+      "readmePath": "1861-rotating-the-box/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1861-rotating-the-box.java",
+          "path": "1861-rotating-the-box/1861-rotating-the-box.java",
+          "sha": "bb51fa9d0b15046cfea32225c03c3502384fcf74",
+          "lastSyncedAt": "2026-10-24T17:41:39.285Z"
         }
       ]
     },
