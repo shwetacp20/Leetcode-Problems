@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-24T17:38:21.946Z",
+  "updatedAt": "2026-10-24T17:39:33.732Z",
   "problems": [
     {
       "frontendId": "88",
@@ -23,7 +23,7 @@
           "filename": "0088-merge-sorted-array.java",
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.java",
           "sha": "ac595d102e7c2fad7e4c74c6df5cdf8bd9849e28",
-          "lastSyncedAt": "2026-10-13T13:28:50.112Z"
+          "lastSyncedAt": "2026-10-24T17:39:33.732Z"
         }
       ]
     },
