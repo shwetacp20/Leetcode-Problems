@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-24T17:40:56.474Z",
+  "updatedAt": "2026-10-24T17:51:06.577Z",
   "problems": [
     {
       "frontendId": "1081",
@@ -163,7 +163,7 @@
           "filename": "3720-lexicographically-smallest-permutation-greater-than-target.java",
           "path": "3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.java",
           "sha": "2f58544c92a4f6a217ad1699194a627895b1a663",
-          "lastSyncedAt": "2026-10-24T17:33:01.956Z"
+          "lastSyncedAt": "2026-10-24T17:51:06.577Z"
         }
       ]
     }
