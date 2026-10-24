@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-24T17:40:40.553Z",
+  "updatedAt": "2026-10-24T17:40:56.474Z",
   "problems": [
     {
       "frontendId": "88",
@@ -103,7 +103,7 @@
           "filename": "1665-minimum-initial-energy-to-finish-tasks.java",
           "path": "1665-minimum-initial-energy-to-finish-tasks/1665-minimum-initial-energy-to-finish-tasks.java",
           "sha": "aa9ac0a0ff0ed0cf443c1dc12530aed1f0b3f7a3",
-          "lastSyncedAt": "2026-10-13T13:31:23.813Z"
+          "lastSyncedAt": "2026-10-24T17:40:56.474Z"
         }
       ]
     },
