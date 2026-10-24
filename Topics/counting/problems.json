@@ -5,8 +5,28 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-24T17:36:22.638Z",
+  "updatedAt": "2026-10-24T17:43:48.583Z",
   "problems": [
+    {
+      "frontendId": "2833",
+      "title": "Furthest Point From Origin",
+      "slug": "furthest-point-from-origin",
+      "problemName": "2833-furthest-point-from-origin",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/furthest-point-from-origin/",
+      "folderPath": "2833-furthest-point-from-origin/",
+      "readmePath": "2833-furthest-point-from-origin/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2833-furthest-point-from-origin.java",
+          "path": "2833-furthest-point-from-origin/2833-furthest-point-from-origin.java",
+          "sha": "2c13d9b7ff001f2cbae90fca4a452c6c77d9af99",
+          "lastSyncedAt": "2026-10-24T17:43:48.583Z"
+        }
+      ]
+    },
     {
       "frontendId": "3312",
       "title": "Sorted GCD Pair Queries",
