@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-24T17:42:13.350Z",
+  "updatedAt": "2026-10-24T17:42:36.287Z",
   "problems": [
     {
       "frontendId": "9",
@@ -44,6 +44,26 @@
           "path": "0048-rotate-image/0048-rotate-image.java",
           "sha": "92ecc824c00836fe6db4cd7101d8312e52f8f1bb",
           "lastSyncedAt": "2026-10-24T17:42:13.350Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "0066-plus-one/",
+      "readmePath": "0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0066-plus-one.java",
+          "path": "0066-plus-one/0066-plus-one.java",
+          "sha": "84f1a01d940396daa8688f157f7ca879c162ee54",
+          "lastSyncedAt": "2026-10-24T17:42:36.287Z"
         }
       ]
     },
