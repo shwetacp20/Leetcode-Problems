@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T17:52:58.912Z",
+  "updatedAt": "2026-10-24T17:53:16.115Z",
   "problems": [
     {
       "frontendId": "1",
@@ -743,7 +743,7 @@
           "filename": "3336-find-the-number-of-subsequences-with-equal-gcd.java",
           "path": "3336-find-the-number-of-subsequences-with-equal-gcd/3336-find-the-number-of-subsequences-with-equal-gcd.java",
           "sha": "e65ff8359881fb1d91cefc9f045830817ef578f0",
-          "lastSyncedAt": "2026-10-24T17:35:10.334Z"
+          "lastSyncedAt": "2026-10-24T17:53:16.115Z"
         }
       ]
     },
