@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-24T17:37:17.669Z",
+  "updatedAt": "2026-10-24T17:37:40.378Z",
   "problems": [
     {
       "frontendId": "112",
@@ -43,7 +43,7 @@
           "filename": "2196-create-binary-tree-from-descriptions.java",
           "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.java",
           "sha": "f826a4574727b53ac3ef12263068d2656fd0c6f6",
-          "lastSyncedAt": "2026-10-13T13:25:42.315Z"
+          "lastSyncedAt": "2026-10-24T17:37:40.378Z"
         }
       ]
     },
