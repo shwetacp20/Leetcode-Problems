@@ -6,18 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 94 | 37 | 40 | 17 |
+| 96 | 39 | 40 | 17 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 15 days | 15 days | 83 |
+| 2 days | 15 days | 85 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-08 | 1 |
-| 2026-10-09 | 1 |
 | 2026-10-10 | 2 |
 | 2026-10-11 | 1 |
 | 2026-10-12 | 1 |
@@ -30,21 +28,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
 | 2026-10-21 | 1 |
+| 2026-10-23 | 1 |
+| 2026-10-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 49 | 52% |
+| Array | 49 | 51% |
 | Math | 20 | 21% |
 | String | 20 | 21% |
-| Database | 17 | 18% |
+| Database | 19 | 20% |
 | Hash Table | 17 | 18% |
-| Dynamic Programming | 10 | 11% |
-| Two Pointers | 10 | 11% |
-| Binary Search | 9 | 10% |
-| Prefix Sum | 9 | 10% |
-| Sorting | 9 | 10% |
+| Dynamic Programming | 10 | 10% |
+| Two Pointers | 10 | 10% |
+| Binary Search | 9 | 9% |
+| Prefix Sum | 9 | 9% |
+| Sorting | 9 | 9% |
 
 ## Topics
 
@@ -61,7 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 17 |
+| [Database](Topics/database/) | 19 |
 | [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 10 |
