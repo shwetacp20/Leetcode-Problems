@@ -5,7 +5,7 @@
     "name": "Trie",
     "tagId": "27"
   },
-  "updatedAt": "2026-10-13T13:29:27.914Z",
+  "updatedAt": "2026-10-24T17:39:06.493Z",
   "problems": [
     {
       "frontendId": "3043",
@@ -43,7 +43,7 @@
           "filename": "3093-longest-common-suffix-queries.java",
           "path": "3093-longest-common-suffix-queries/3093-longest-common-suffix-queries.java",
           "sha": "1ed753e70635ae9dd19aed0560e1bf3310bcf137",
-          "lastSyncedAt": "2026-10-13T13:27:55.845Z"
+          "lastSyncedAt": "2026-10-24T17:39:06.493Z"
         }
       ]
     }
