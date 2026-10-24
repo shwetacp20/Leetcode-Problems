@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-24T17:41:47.452Z",
+  "updatedAt": "2026-10-24T17:43:57.699Z",
   "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "0002-add-two-numbers/",
+      "readmePath": "0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0002-add-two-numbers.java",
+          "path": "0002-add-two-numbers/0002-add-two-numbers.java",
+          "sha": "bf005eeb29f4d9e42ee942741d87214e9b77384a",
+          "lastSyncedAt": "2026-10-24T17:43:57.699Z"
+        }
+      ]
+    },
     {
       "frontendId": "231",
       "title": "Power of Two",
