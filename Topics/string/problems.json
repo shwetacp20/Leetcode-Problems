@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-24T17:43:48.583Z",
+  "updatedAt": "2026-10-24T17:44:08.046Z",
   "problems": [
     {
       "frontendId": "3",
@@ -84,6 +84,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "f01c28e045937c2b89874cb2e469172a6d32fc41",
           "lastSyncedAt": "2026-10-24T17:39:12.635Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "problemName": "0058-length-of-last-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+      "folderPath": "0058-length-of-last-word/",
+      "readmePath": "0058-length-of-last-word/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0058-length-of-last-word.java",
+          "path": "0058-length-of-last-word/0058-length-of-last-word.java",
+          "sha": "40193f59cfc9df148065680176ec807e707d5086",
+          "lastSyncedAt": "2026-10-24T17:44:08.046Z"
         }
       ]
     },
