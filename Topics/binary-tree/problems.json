@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-24T17:37:40.378Z",
+  "updatedAt": "2026-10-24T17:54:58.002Z",
   "problems": [
     {
       "frontendId": "112",
@@ -23,7 +23,7 @@
           "filename": "0112-path-sum.java",
           "path": "0112-path-sum/0112-path-sum.java",
           "sha": "818188f849af57c9b16361b3281fb5d470dee6ce",
-          "lastSyncedAt": "2026-10-24T17:36:49.896Z"
+          "lastSyncedAt": "2026-10-24T17:54:58.002Z"
         }
       ]
     },
