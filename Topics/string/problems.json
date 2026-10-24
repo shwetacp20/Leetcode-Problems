@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-24T17:52:12.315Z",
+  "updatedAt": "2026-10-24T17:52:22.770Z",
   "problems": [
     {
       "frontendId": "3",
@@ -243,7 +243,7 @@
           "filename": "1081-smallest-subsequence-of-distinct-characters.java",
           "path": "1081-smallest-subsequence-of-distinct-characters/1081-smallest-subsequence-of-distinct-characters.java",
           "sha": "829dbd3ec690025248c844b8f1b10943a7ca7fb7",
-          "lastSyncedAt": "2026-10-24T17:34:17.006Z"
+          "lastSyncedAt": "2026-10-24T17:52:22.770Z"
         }
       ]
     },
