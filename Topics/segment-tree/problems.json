@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-10-24T17:37:22.970Z",
+  "updatedAt": "2026-10-24T17:38:45.434Z",
   "problems": [
     {
       "frontendId": "3161",
@@ -23,7 +23,7 @@
           "filename": "3161-block-placement-queries.java",
           "path": "3161-block-placement-queries/3161-block-placement-queries.java",
           "sha": "624f5b2185669685e8d13dbdc89c0b60c1ac7515",
-          "lastSyncedAt": "2026-10-13T13:27:12.737Z"
+          "lastSyncedAt": "2026-10-24T17:38:45.434Z"
         }
       ]
     },
