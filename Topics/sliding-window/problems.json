@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-25T13:26:57.469Z",
+  "updatedAt": "2026-10-25T14:07:46.541Z",
   "problems": [
     {
       "frontendId": "3",
@@ -43,7 +43,7 @@
           "filename": "1871-jump-game-vii.java",
           "path": "1871-jump-game-vii/1871-jump-game-vii.java",
           "sha": "b71a9b3ed6c159ea7417171db7261409780fb7cb",
-          "lastSyncedAt": "2026-10-24T17:39:39.669Z"
+          "lastSyncedAt": "2026-10-25T14:07:46.541Z"
         }
       ]
     },
