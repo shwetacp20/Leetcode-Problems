@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-25T13:28:17.397Z",
+  "updatedAt": "2026-10-25T13:29:56.357Z",
   "problems": [
     {
       "frontendId": "2833",
@@ -83,7 +83,7 @@
           "filename": "3737-count-subarrays-with-majority-element-i.java",
           "path": "3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.java",
           "sha": "27dbe4bb786a1025ecb958b89144c0c01b38b82c",
-          "lastSyncedAt": "2026-10-24T17:54:31.895Z"
+          "lastSyncedAt": "2026-10-25T13:29:56.357Z"
         }
       ]
     }
