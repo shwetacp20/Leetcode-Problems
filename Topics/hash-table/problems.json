@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-25T14:08:48.153Z",
+  "updatedAt": "2026-10-25T14:08:52.041Z",
   "problems": [
     {
       "frontendId": "1",
@@ -163,7 +163,7 @@
           "filename": "1674-minimum-moves-to-make-array-complementary.java",
           "path": "1674-minimum-moves-to-make-array-complementary/1674-minimum-moves-to-make-array-complementary.java",
           "sha": "59ad9d6f55c593daab5ef4256b72b46b93620f9f",
-          "lastSyncedAt": "2026-10-24T17:40:50.849Z"
+          "lastSyncedAt": "2026-10-25T14:08:52.041Z"
         }
       ]
     },
