@@ -6,13 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 119 | 53 | 48 | 18 |
+| 125 | 58 | 49 | 18 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 15 days | 102 |
+| 3 days | 15 days | 106 |
 
 | Date | Problems |
 | --- | ---: |
@@ -35,33 +35,34 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 59 | 50% |
-| Math | 29 | 24% |
-| String | 25 | 21% |
-| Database | 20 | 17% |
-| Hash Table | 20 | 17% |
-| Two Pointers | 15 | 13% |
+| Array | 61 | 49% |
+| Math | 32 | 26% |
+| String | 29 | 23% |
+| Hash Table | 22 | 18% |
+| Database | 21 | 17% |
+| Two Pointers | 15 | 12% |
 | Dynamic Programming | 12 | 10% |
 | Binary Search | 11 | 9% |
 | Sorting | 10 | 8% |
-| Prefix Sum | 9 | 8% |
+| Prefix Sum | 9 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 60 |
+| [Array](Topics/array/) | 61 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 11 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 8 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 4 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 20 |
+| [Database](Topics/database/) | 21 |
 | [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 12 |
@@ -73,13 +74,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Graph Theory](Topics/graph/) | 2 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 3 |
 | [Greedy](Topics/greedy/) | 8 |
-| [Hash Table](Topics/hash-table/) | 21 |
+| [Hash Table](Topics/hash-table/) | 22 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 30 |
+| [Math](Topics/math/) | 32 |
 | [Matrix](Topics/matrix/) | 6 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
@@ -91,15 +92,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 5 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
-| [Simulation](Topics/simulation/) | 8 |
+| [Simulation](Topics/simulation/) | 9 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 10 |
-| [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 25 |
+| [Stack](Topics/stack/) | 4 |
+| [String](Topics/string/) | 29 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
 | [Tree](Topics/tree/) | 4 |
-| [Trie](Topics/trie/) | 2 |
+| [Trie](Topics/trie/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 15 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
