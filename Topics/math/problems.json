@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-25T14:10:54.020Z",
+  "updatedAt": "2026-10-25T14:11:26.509Z",
   "problems": [
     {
       "frontendId": "2",
@@ -204,6 +204,26 @@
           "path": "0231-power-of-two/0231-power-of-two.java",
           "sha": "3782a351548135e31904f51c04fd66dbe1aa3626",
           "lastSyncedAt": "2026-10-25T14:09:39.402Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "0412-fizz-buzz/",
+      "readmePath": "0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0412-fizz-buzz.java",
+          "path": "0412-fizz-buzz/0412-fizz-buzz.java",
+          "sha": "0190b8c11c252b3830773ccf22df7c3e7a04bf13",
+          "lastSyncedAt": "2026-10-25T14:11:26.509Z"
         }
       ]
     },
