@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-25T13:32:17.442Z",
+  "updatedAt": "2026-10-25T14:07:10.286Z",
   "problems": [
     {
       "frontendId": "3",
@@ -383,7 +383,7 @@
           "filename": "3093-longest-common-suffix-queries.java",
           "path": "3093-longest-common-suffix-queries/3093-longest-common-suffix-queries.java",
           "sha": "1ed753e70635ae9dd19aed0560e1bf3310bcf137",
-          "lastSyncedAt": "2026-10-24T17:39:06.493Z"
+          "lastSyncedAt": "2026-10-25T14:07:10.286Z"
         }
       ]
     },
