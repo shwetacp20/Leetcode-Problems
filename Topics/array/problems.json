@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-25T14:08:01.302Z",
+  "updatedAt": "2026-10-25T14:08:10.552Z",
   "problems": [
     {
       "frontendId": "1",
@@ -583,7 +583,7 @@
           "filename": "2657-find-the-prefix-common-array-of-two-arrays.java",
           "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.java",
           "sha": "79d6b089008982292ce47d763fa5cdaef9bef19f",
-          "lastSyncedAt": "2026-10-24T17:40:04.354Z"
+          "lastSyncedAt": "2026-10-25T14:08:10.552Z"
         }
       ]
     },
