@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-24T17:50:15.274Z",
+  "updatedAt": "2026-10-25T13:24:19.240Z",
   "problems": [
     {
       "frontendId": "176",
@@ -164,6 +164,26 @@
           "path": "0595-big-countries/0595-big-countries.py",
           "sha": "61c93b6fb6aee82afd091dd6b3806b00e2041da1",
           "lastSyncedAt": "2026-10-24T17:50:15.274Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "596",
+      "title": "Classes With at Least 5 Students",
+      "slug": "classes-with-at-least-5-students",
+      "problemName": "0596-classes-with-at-least-5-students",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/classes-with-at-least-5-students/",
+      "folderPath": "0596-classes-with-at-least-5-students/",
+      "readmePath": "0596-classes-with-at-least-5-students/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "0596-classes-with-at-least-5-students.py",
+          "path": "0596-classes-with-at-least-5-students/0596-classes-with-at-least-5-students.py",
+          "sha": "7bc4195a24b572c8427dedc95955922f9714117b",
+          "lastSyncedAt": "2026-10-25T13:24:19.240Z"
         }
       ]
     },
