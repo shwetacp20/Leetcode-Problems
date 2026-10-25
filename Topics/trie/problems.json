@@ -5,8 +5,28 @@
     "name": "Trie",
     "tagId": "27"
   },
-  "updatedAt": "2026-10-25T14:08:01.302Z",
+  "updatedAt": "2026-10-25T14:11:34.847Z",
   "problems": [
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "0014-longest-common-prefix/",
+      "readmePath": "0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0014-longest-common-prefix.java",
+          "path": "0014-longest-common-prefix/0014-longest-common-prefix.java",
+          "sha": "824a83963976b756578e2dbf97fb440efa80780d",
+          "lastSyncedAt": "2026-10-25T14:11:34.847Z"
+        }
+      ]
+    },
     {
       "frontendId": "3043",
       "title": "Find the Length of the Longest Common Prefix",
