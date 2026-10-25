@@ -5,7 +5,7 @@
     "name": "Game Theory",
     "tagId": "61073"
   },
-  "updatedAt": "2026-10-24T17:51:42.311Z",
+  "updatedAt": "2026-10-25T13:27:05.814Z",
   "problems": [
     {
       "frontendId": "1872",
@@ -23,7 +23,7 @@
           "filename": "1872-stone-game-viii.java",
           "path": "1872-stone-game-viii/1872-stone-game-viii.java",
           "sha": "12120569f50a483d74e2f47d632db4a094b8cb23",
-          "lastSyncedAt": "2026-10-24T17:51:26.865Z"
+          "lastSyncedAt": "2026-10-25T13:27:05.814Z"
         }
       ]
     },
