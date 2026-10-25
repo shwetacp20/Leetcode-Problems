@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-25T14:08:36.357Z",
+  "updatedAt": "2026-10-25T14:08:42.437Z",
   "problems": [
     {
       "frontendId": "1",
@@ -603,7 +603,7 @@
           "filename": "2784-check-if-array-is-good.java",
           "path": "2784-check-if-array-is-good/2784-check-if-array-is-good.java",
           "sha": "f8fdad91680718e5195f6fc01188f404f57720ca",
-          "lastSyncedAt": "2026-10-24T17:40:40.553Z"
+          "lastSyncedAt": "2026-10-25T14:08:42.437Z"
         }
       ]
     },
