@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-25T13:27:33.994Z",
+  "updatedAt": "2026-10-25T13:27:39.669Z",
   "problems": [
     {
       "frontendId": "1",
@@ -783,7 +783,7 @@
           "filename": "3501-maximize-active-section-with-trade-ii.java",
           "path": "3501-maximize-active-section-with-trade-ii/3501-maximize-active-section-with-trade-ii.java",
           "sha": "30020dd6558465e3c8dd2583ba0b0a8259b0bc1b",
-          "lastSyncedAt": "2026-10-24T17:52:03.713Z"
+          "lastSyncedAt": "2026-10-25T13:27:39.669Z"
         }
       ]
     },
