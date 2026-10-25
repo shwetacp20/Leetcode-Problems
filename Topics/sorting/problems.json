@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-25T13:29:00.299Z",
+  "updatedAt": "2026-10-25T13:29:08.194Z",
   "problems": [
     {
       "frontendId": "88",
@@ -63,7 +63,7 @@
           "filename": "1288-remove-covered-intervals.java",
           "path": "1288-remove-covered-intervals/1288-remove-covered-intervals.java",
           "sha": "d990bfcd2d3c8ab39da7d52869d68ce7e3c3b440",
-          "lastSyncedAt": "2026-10-24T17:53:41.103Z"
+          "lastSyncedAt": "2026-10-25T13:29:08.194Z"
         }
       ]
     },
