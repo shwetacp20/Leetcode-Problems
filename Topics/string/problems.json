@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-25T14:07:28.564Z",
+  "updatedAt": "2026-10-25T14:07:33.692Z",
   "problems": [
     {
       "frontendId": "3",
@@ -263,7 +263,7 @@
           "filename": "1249-minimum-remove-to-make-valid-parentheses.java",
           "path": "1249-minimum-remove-to-make-valid-parentheses/1249-minimum-remove-to-make-valid-parentheses.java",
           "sha": "44a6093b25492f324d622a941811ab25f85c30c3",
-          "lastSyncedAt": "2026-10-24T17:39:29.749Z"
+          "lastSyncedAt": "2026-10-25T14:07:33.692Z"
         }
       ]
     },
