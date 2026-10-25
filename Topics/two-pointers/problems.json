@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-24T17:54:52.372Z",
+  "updatedAt": "2026-10-25T13:28:33.246Z",
   "problems": [
     {
       "frontendId": "5",
@@ -303,7 +303,7 @@
           "filename": "3867-sum-of-gcd-of-formed-pairs.java",
           "path": "3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.java",
           "sha": "8c1615c1308ddc9cef47b2a67da3c515f7ff073a",
-          "lastSyncedAt": "2026-10-24T17:52:58.912Z"
+          "lastSyncedAt": "2026-10-25T13:28:33.246Z"
         }
       ]
     }
