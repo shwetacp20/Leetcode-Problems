@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-25T13:29:56.357Z",
+  "updatedAt": "2026-10-25T13:31:14.436Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,7 +183,7 @@
           "filename": "2196-create-binary-tree-from-descriptions.java",
           "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.java",
           "sha": "f826a4574727b53ac3ef12263068d2656fd0c6f6",
-          "lastSyncedAt": "2026-10-24T17:37:40.378Z"
+          "lastSyncedAt": "2026-10-25T13:31:14.436Z"
         }
       ]
     },
