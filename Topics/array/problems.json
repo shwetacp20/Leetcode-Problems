@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-25T13:27:51.219Z",
+  "updatedAt": "2026-10-25T13:28:05.977Z",
   "problems": [
     {
       "frontendId": "1",
@@ -503,7 +503,7 @@
           "filename": "1979-find-greatest-common-divisor-of-array.java",
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
           "sha": "590b924d5d3e2e898a46623177ac84a499ebbcd1",
-          "lastSyncedAt": "2026-10-24T17:52:30.851Z"
+          "lastSyncedAt": "2026-10-25T13:28:05.977Z"
         }
       ]
     },
