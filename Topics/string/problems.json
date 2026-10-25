@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-25T14:07:16.565Z",
+  "updatedAt": "2026-10-25T14:07:28.564Z",
   "problems": [
     {
       "frontendId": "3",
@@ -403,7 +403,7 @@
           "filename": "3121-count-the-number-of-special-characters-ii.java",
           "path": "3121-count-the-number-of-special-characters-ii/3121-count-the-number-of-special-characters-ii.java",
           "sha": "46d8e952f47ffad1496126c9da147065b10880ef",
-          "lastSyncedAt": "2026-10-24T17:39:25.337Z"
+          "lastSyncedAt": "2026-10-25T14:07:28.564Z"
         }
       ]
     },
