@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-10-25T13:28:47.701Z",
+  "updatedAt": "2026-10-25T14:09:12.903Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -83,7 +83,7 @@
           "filename": "3629-minimum-jumps-to-reach-end-via-prime-teleportation.java",
           "path": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/3629-minimum-jumps-to-reach-end-via-prime-teleportation.java",
           "sha": "d0635796f6334effa3de7e368c0396c51fb5de51",
-          "lastSyncedAt": "2026-10-24T17:41:08.351Z"
+          "lastSyncedAt": "2026-10-25T14:09:12.903Z"
         }
       ]
     },
