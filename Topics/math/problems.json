@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-25T14:11:26.509Z",
+  "updatedAt": "2026-10-25T14:11:48.534Z",
   "problems": [
     {
       "frontendId": "2",
@@ -84,6 +84,26 @@
           "path": "0012-integer-to-roman/0012-integer-to-roman.java",
           "sha": "7e3801a263c21bebbf2049508f786bb5ddf4c126",
           "lastSyncedAt": "2026-10-25T14:10:17.012Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "problemName": "0013-roman-to-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+      "folderPath": "0013-roman-to-integer/",
+      "readmePath": "0013-roman-to-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0013-roman-to-integer.java",
+          "path": "0013-roman-to-integer/0013-roman-to-integer.java",
+          "sha": "60476df65cb9f0bb5aa361bd7a290357202fd6df",
+          "lastSyncedAt": "2026-10-25T14:11:48.534Z"
         }
       ]
     },
