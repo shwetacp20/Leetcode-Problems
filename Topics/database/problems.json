@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-25T14:11:43.245Z",
+  "updatedAt": "2026-10-26T13:18:47.796Z",
   "problems": [
     {
       "frontendId": "175",
@@ -164,6 +164,26 @@
           "path": "0511-game-play-analysis-i/0511-game-play-analysis-i.py",
           "sha": "820f3c6a28450fb46ce659553b15aafa014089db",
           "lastSyncedAt": "2026-10-25T14:07:30.409Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "586",
+      "title": "Customer Placing the Largest Number of Orders",
+      "slug": "customer-placing-the-largest-number-of-orders",
+      "problemName": "0586-customer-placing-the-largest-number-of-orders",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/",
+      "folderPath": "0586-customer-placing-the-largest-number-of-orders/",
+      "readmePath": "0586-customer-placing-the-largest-number-of-orders/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "0586-customer-placing-the-largest-number-of-orders.py",
+          "path": "0586-customer-placing-the-largest-number-of-orders/0586-customer-placing-the-largest-number-of-orders.py",
+          "sha": "4ddddb04409ffec1f569f55728e8554e023d454e",
+          "lastSyncedAt": "2026-10-26T13:18:47.796Z"
         }
       ]
     },
