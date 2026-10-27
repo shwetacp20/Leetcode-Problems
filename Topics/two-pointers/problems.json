@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-27T17:51:39.406Z",
+  "updatedAt": "2026-10-27T17:52:04.601Z",
   "problems": [
     {
       "frontendId": "5",
@@ -23,7 +23,7 @@
           "filename": "0005-longest-palindromic-substring.java",
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.java",
           "sha": "5071551baf21105c6b95bfdad0218a02fbf6c88b",
-          "lastSyncedAt": "2026-10-25T13:32:17.442Z"
+          "lastSyncedAt": "2026-10-27T17:52:04.601Z"
         }
       ]
     },
