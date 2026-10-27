@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-27T17:48:21.981Z",
+  "updatedAt": "2026-10-27T17:49:08.367Z",
   "problems": [
     {
       "frontendId": "1",
@@ -263,7 +263,7 @@
           "filename": "3020-find-the-maximum-number-of-elements-in-subset.java",
           "path": "3020-find-the-maximum-number-of-elements-in-subset/3020-find-the-maximum-number-of-elements-in-subset.java",
           "sha": "9878816d5239e13f3d5e6bd87595795d07ec8575",
-          "lastSyncedAt": "2026-10-25T13:29:38.507Z"
+          "lastSyncedAt": "2026-10-27T17:49:08.367Z"
         }
       ]
     },
