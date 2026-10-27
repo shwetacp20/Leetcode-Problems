@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-25T14:11:09.490Z",
+  "updatedAt": "2026-10-27T17:49:47.090Z",
   "problems": [
     {
       "frontendId": "2",
@@ -103,7 +103,7 @@
           "filename": "2095-delete-the-middle-node-of-a-linked-list.java",
           "path": "2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.java",
           "sha": "294050687a5b1f84b806abece2d4634447d0717d",
-          "lastSyncedAt": "2026-10-25T13:30:12.536Z"
+          "lastSyncedAt": "2026-10-27T17:49:47.090Z"
         }
       ]
     },
