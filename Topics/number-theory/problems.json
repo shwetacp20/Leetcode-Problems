@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-10-25T14:09:12.903Z",
+  "updatedAt": "2026-10-27T17:47:16.276Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -23,7 +23,7 @@
           "filename": "1979-find-greatest-common-divisor-of-array.java",
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
           "sha": "590b924d5d3e2e898a46623177ac84a499ebbcd1",
-          "lastSyncedAt": "2026-10-25T13:28:05.977Z"
+          "lastSyncedAt": "2026-10-27T17:47:16.276Z"
         }
       ]
     },
