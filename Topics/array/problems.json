@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-27T17:52:13.102Z",
+  "updatedAt": "2026-10-27T17:52:43.111Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,7 +183,7 @@
           "filename": "0088-merge-sorted-array.java",
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.java",
           "sha": "ac595d102e7c2fad7e4c74c6df5cdf8bd9849e28",
-          "lastSyncedAt": "2026-10-25T14:07:38.818Z"
+          "lastSyncedAt": "2026-10-27T17:52:43.111Z"
         }
       ]
     },
