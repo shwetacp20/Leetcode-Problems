@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-27T17:48:21.981Z",
+  "updatedAt": "2026-10-27T17:48:31.509Z",
   "problems": [
     {
       "frontendId": "1",
@@ -283,7 +283,7 @@
           "filename": "1288-remove-covered-intervals.java",
           "path": "1288-remove-covered-intervals/1288-remove-covered-intervals.java",
           "sha": "d990bfcd2d3c8ab39da7d52869d68ce7e3c3b440",
-          "lastSyncedAt": "2026-10-25T13:29:08.194Z"
+          "lastSyncedAt": "2026-10-27T17:48:31.509Z"
         }
       ]
     },
