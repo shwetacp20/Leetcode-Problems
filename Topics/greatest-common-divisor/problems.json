@@ -5,7 +5,7 @@
     "name": "Greatest Common Divisor",
     "tagId": "98781"
   },
-  "updatedAt": "2026-10-27T17:47:29.568Z",
+  "updatedAt": "2026-10-27T17:48:06.922Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -63,7 +63,7 @@
           "filename": "3336-find-the-number-of-subsequences-with-equal-gcd.java",
           "path": "3336-find-the-number-of-subsequences-with-equal-gcd/3336-find-the-number-of-subsequences-with-equal-gcd.java",
           "sha": "e65ff8359881fb1d91cefc9f045830817ef578f0",
-          "lastSyncedAt": "2026-10-25T13:28:47.701Z"
+          "lastSyncedAt": "2026-10-27T17:48:06.922Z"
         }
       ]
     }
