@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-27T17:53:00.496Z",
+  "updatedAt": "2026-10-27T17:53:05.141Z",
   "problems": [
     {
       "frontendId": "1",
@@ -663,7 +663,7 @@
           "filename": "3043-find-the-length-of-the-longest-common-prefix.java",
           "path": "3043-find-the-length-of-the-longest-common-prefix/3043-find-the-length-of-the-longest-common-prefix.java",
           "sha": "0101e189fd4e46d81973306958787577036ac495",
-          "lastSyncedAt": "2026-10-25T14:08:01.302Z"
+          "lastSyncedAt": "2026-10-27T17:53:05.141Z"
         }
       ]
     },
