@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-27T17:51:02.449Z",
+  "updatedAt": "2026-10-27T17:51:14.425Z",
   "problems": [
     {
       "frontendId": "3",
@@ -183,7 +183,7 @@
           "filename": "0067-add-binary.java",
           "path": "0067-add-binary/0067-add-binary.java",
           "sha": "e62144454f2367b42fe0f615bc8dd83ae6911b3d",
-          "lastSyncedAt": "2026-10-25T13:31:32.496Z"
+          "lastSyncedAt": "2026-10-27T17:51:14.425Z"
         }
       ]
     },
