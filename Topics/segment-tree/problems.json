@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-10-27T17:49:28.944Z",
+  "updatedAt": "2026-10-27T17:50:33.370Z",
   "problems": [
     {
       "frontendId": "3161",
@@ -63,7 +63,7 @@
           "filename": "3691-maximum-total-subarray-value-ii.java",
           "path": "3691-maximum-total-subarray-value-ii/3691-maximum-total-subarray-value-ii.java",
           "sha": "e3ae38c22b083aeb0e5df9eff796551c39e64767",
-          "lastSyncedAt": "2026-10-25T13:30:56.890Z"
+          "lastSyncedAt": "2026-10-27T17:50:33.370Z"
         }
       ]
     },
