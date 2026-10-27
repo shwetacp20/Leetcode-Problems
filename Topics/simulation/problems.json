@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-27T17:46:58.116Z",
+  "updatedAt": "2026-10-27T17:47:49.010Z",
   "problems": [
     {
       "frontendId": "67",
@@ -183,7 +183,7 @@
           "filename": "3867-sum-of-gcd-of-formed-pairs.java",
           "path": "3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.java",
           "sha": "8c1615c1308ddc9cef47b2a67da3c515f7ff073a",
-          "lastSyncedAt": "2026-10-25T13:28:33.246Z"
+          "lastSyncedAt": "2026-10-27T17:47:49.010Z"
         }
       ]
     }
