@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-27T17:54:24.850Z",
+  "updatedAt": "2026-10-27T17:54:44.240Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1003,7 +1003,7 @@
           "filename": "3660-jump-game-ix.java",
           "path": "3660-jump-game-ix/3660-jump-game-ix.java",
           "sha": "b3fe957a7192b5cf4cc60b86aa5881f6af7b1315",
-          "lastSyncedAt": "2026-10-25T14:09:30.140Z"
+          "lastSyncedAt": "2026-10-27T17:54:44.240Z"
         }
       ]
     },
