@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-27T17:47:16.276Z",
+  "updatedAt": "2026-10-27T17:47:29.568Z",
   "problems": [
     {
       "frontendId": "1",
@@ -743,7 +743,7 @@
           "filename": "3312-sorted-gcd-pair-queries.java",
           "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.java",
           "sha": "d2dd4b3690cee3e64811c68586e78bd3eda51bf2",
-          "lastSyncedAt": "2026-10-25T13:28:17.397Z"
+          "lastSyncedAt": "2026-10-27T17:47:29.568Z"
         }
       ]
     },
