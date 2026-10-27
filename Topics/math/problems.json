@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-25T14:11:48.534Z",
+  "updatedAt": "2026-10-27T17:44:45.113Z",
   "problems": [
     {
       "frontendId": "2",
@@ -443,7 +443,7 @@
           "filename": "3550-smallest-index-with-digit-sum-equal-to-index.java",
           "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "acf6cef677bc02791ea4fdb63c81020e145d1e2b",
-          "lastSyncedAt": "2026-10-25T14:08:11.955Z"
+          "lastSyncedAt": "2026-10-27T17:44:45.113Z"
         }
       ]
     },
