@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-27T17:53:51.626Z",
+  "updatedAt": "2026-10-27T17:54:24.850Z",
   "problems": [
     {
       "frontendId": "2",
@@ -503,7 +503,7 @@
           "filename": "3629-minimum-jumps-to-reach-end-via-prime-teleportation.java",
           "path": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/3629-minimum-jumps-to-reach-end-via-prime-teleportation.java",
           "sha": "d0635796f6334effa3de7e368c0396c51fb5de51",
-          "lastSyncedAt": "2026-10-25T14:09:12.903Z"
+          "lastSyncedAt": "2026-10-27T17:54:24.850Z"
         }
       ]
     },
