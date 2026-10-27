@@ -5,7 +5,7 @@
     "name": "String Matching",
     "tagId": "61052"
   },
-  "updatedAt": "2026-10-27T17:52:20.072Z",
+  "updatedAt": "2026-10-27T17:55:17.423Z",
   "problems": [
     {
       "frontendId": "28",
@@ -43,7 +43,7 @@
           "filename": "0796-rotate-string.java",
           "path": "0796-rotate-string/0796-rotate-string.java",
           "sha": "b7d7ccd57aee22a1ee115b14d0624832f96fab22",
-          "lastSyncedAt": "2026-10-25T14:09:57.948Z"
+          "lastSyncedAt": "2026-10-27T17:55:17.423Z"
         }
       ]
     }
