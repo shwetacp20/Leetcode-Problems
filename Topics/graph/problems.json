@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-10-25T13:29:26.425Z",
+  "updatedAt": "2026-10-27T17:48:42.136Z",
   "problems": [
     {
       "frontendId": "2492",
@@ -23,7 +23,7 @@
           "filename": "2492-minimum-score-of-a-path-between-two-cities.java",
           "path": "2492-minimum-score-of-a-path-between-two-cities/2492-minimum-score-of-a-path-between-two-cities.java",
           "sha": "ad29da1a7570b719bdb1569fd6f939c22a9cf657",
-          "lastSyncedAt": "2026-10-25T13:29:17.957Z"
+          "lastSyncedAt": "2026-10-27T17:48:42.136Z"
         }
       ]
     },
