@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-27T17:52:04.601Z",
+  "updatedAt": "2026-10-27T17:52:49.979Z",
   "problems": [
     {
       "frontendId": "5",
@@ -123,7 +123,7 @@
           "filename": "1871-jump-game-vii.java",
           "path": "1871-jump-game-vii/1871-jump-game-vii.java",
           "sha": "b71a9b3ed6c159ea7417171db7261409780fb7cb",
-          "lastSyncedAt": "2026-10-25T14:07:46.541Z"
+          "lastSyncedAt": "2026-10-27T17:52:49.979Z"
         }
       ]
     },
