@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 132 | 65 | 49 | 18 |
+| 134 | 67 | 49 | 18 |
 
 ## Activity
 
@@ -29,7 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-28 | 1 |
-| 2026-10-29 | 4 |
+| 2026-10-29 | 6 |
 
 ## Top Tags
 
@@ -37,14 +37,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | --- | ---: | ---: |
 | Array | 65 | 49% |
 | Math | 33 | 25% |
-| String | 29 | 22% |
+| String | 31 | 23% |
 | Database | 24 | 18% |
 | Hash Table | 23 | 17% |
 | Two Pointers | 15 | 11% |
 | Dynamic Programming | 12 | 9% |
 | Binary Search | 11 | 8% |
-| Prefix Sum | 10 | 8% |
-| Simulation | 10 | 8% |
+| Prefix Sum | 10 | 7% |
+| Simulation | 10 | 7% |
 
 ## Topics
 
@@ -96,7 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 29 |
+| [String](Topics/string/) | 31 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
 | [Tree](Topics/tree/) | 4 |
