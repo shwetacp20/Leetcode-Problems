@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-29T13:23:38.617Z",
+  "updatedAt": "2026-10-29T13:29:44.163Z",
   "problems": [
     {
       "frontendId": "1",
@@ -504,6 +504,26 @@
           "path": "1914-cyclically-rotating-a-grid/1914-cyclically-rotating-a-grid.java",
           "sha": "64ee36181a704d77c8cd4ece690e1c238f32a257",
           "lastSyncedAt": "2026-10-27T17:54:18.429Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "1920-build-array-from-permutation/",
+      "readmePath": "1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1920-build-array-from-permutation.py",
+          "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.py",
+          "sha": "82f8ea2893706c386831812cd9f6a7bb9809c44e",
+          "lastSyncedAt": "2026-10-29T13:29:44.163Z"
         }
       ]
     },
