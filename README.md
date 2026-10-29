@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 129 | 62 | 49 | 18 |
+| 130 | 63 | 49 | 18 |
 
 ## Activity
 
@@ -29,28 +29,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-28 | 1 |
-| 2026-10-29 | 1 |
+| 2026-10-29 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 62 | 48% |
-| Math | 33 | 26% |
+| Array | 63 | 48% |
+| Math | 33 | 25% |
 | String | 29 | 22% |
-| Database | 24 | 19% |
+| Database | 24 | 18% |
 | Hash Table | 23 | 18% |
 | Two Pointers | 15 | 12% |
 | Dynamic Programming | 12 | 9% |
-| Binary Search | 11 | 9% |
+| Binary Search | 11 | 8% |
+| Simulation | 10 | 8% |
 | Sorting | 10 | 8% |
-| Prefix Sum | 9 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 62 |
+| [Array](Topics/array/) | 63 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 11 |
@@ -92,7 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 5 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
-| [Simulation](Topics/simulation/) | 9 |
+| [Simulation](Topics/simulation/) | 10 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 4 |
