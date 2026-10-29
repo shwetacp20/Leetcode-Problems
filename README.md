@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 131 | 64 | 49 | 18 |
+| 132 | 65 | 49 | 18 |
 
 ## Activity
 
@@ -29,17 +29,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-28 | 1 |
-| 2026-10-29 | 3 |
+| 2026-10-29 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 64 | 49% |
+| Array | 65 | 49% |
 | Math | 33 | 25% |
 | String | 29 | 22% |
 | Database | 24 | 18% |
-| Hash Table | 23 | 18% |
+| Hash Table | 23 | 17% |
 | Two Pointers | 15 | 11% |
 | Dynamic Programming | 12 | 9% |
 | Binary Search | 11 | 8% |
@@ -50,7 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 64 |
+| [Array](Topics/array/) | 65 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 11 |
