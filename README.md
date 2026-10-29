@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 130 | 63 | 49 | 18 |
+| 131 | 64 | 49 | 18 |
 
 ## Activity
 
@@ -29,28 +29,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-28 | 1 |
-| 2026-10-29 | 2 |
+| 2026-10-29 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 63 | 48% |
+| Array | 64 | 49% |
 | Math | 33 | 25% |
 | String | 29 | 22% |
 | Database | 24 | 18% |
 | Hash Table | 23 | 18% |
-| Two Pointers | 15 | 12% |
+| Two Pointers | 15 | 11% |
 | Dynamic Programming | 12 | 9% |
 | Binary Search | 11 | 8% |
+| Prefix Sum | 10 | 8% |
 | Simulation | 10 | 8% |
-| Sorting | 10 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 63 |
+| [Array](Topics/array/) | 64 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 11 |
@@ -88,7 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 6 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 9 |
+| [Prefix Sum](Topics/prefix-sum/) | 10 |
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 5 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
