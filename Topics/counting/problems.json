@@ -5,8 +5,28 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-27T17:56:16.401Z",
+  "updatedAt": "2026-10-29T13:23:38.617Z",
   "problems": [
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1512-number-of-good-pairs.py",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.py",
+          "sha": "a22ecae5c7388bf75a90c91066a33b67d45fb446",
+          "lastSyncedAt": "2026-10-29T13:23:38.617Z"
+        }
+      ]
+    },
     {
       "frontendId": "2833",
       "title": "Furthest Point From Origin",
