@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-27T17:59:22.873Z",
+  "updatedAt": "2026-10-29T13:23:38.617Z",
   "problems": [
     {
       "frontendId": "2",
@@ -244,6 +244,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.java",
           "sha": "0190b8c11c252b3830773ccf22df7c3e7a04bf13",
           "lastSyncedAt": "2026-10-27T17:56:48.037Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1512-number-of-good-pairs.py",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.py",
+          "sha": "a22ecae5c7388bf75a90c91066a33b67d45fb446",
+          "lastSyncedAt": "2026-10-29T13:23:38.617Z"
         }
       ]
     },
