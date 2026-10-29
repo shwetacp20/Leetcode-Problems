@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 128 | 61 | 49 | 18 |
+| 129 | 62 | 49 | 18 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 15 days | 109 |
+| 7 days | 15 days | 110 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-14 | 1 |
 | 2026-10-15 | 1 |
 | 2026-10-16 | 1 |
 | 2026-10-17 | 1 |
@@ -30,16 +29,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-28 | 1 |
+| 2026-10-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 61 | 48% |
-| Math | 32 | 25% |
-| String | 29 | 23% |
+| Array | 62 | 48% |
+| Math | 33 | 26% |
+| String | 29 | 22% |
 | Database | 24 | 19% |
-| Hash Table | 22 | 17% |
+| Hash Table | 23 | 18% |
 | Two Pointers | 15 | 12% |
 | Dynamic Programming | 12 | 9% |
 | Binary Search | 11 | 9% |
@@ -50,7 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 61 |
+| [Array](Topics/array/) | 62 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 11 |
@@ -60,7 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
-| [Counting](Topics/counting/) | 4 |
+| [Counting](Topics/counting/) | 5 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 24 |
 | [Depth-First Search](Topics/depth-first-search/) | 5 |
@@ -74,13 +74,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Graph Theory](Topics/graph/) | 2 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 3 |
 | [Greedy](Topics/greedy/) | 8 |
-| [Hash Table](Topics/hash-table/) | 22 |
+| [Hash Table](Topics/hash-table/) | 23 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 32 |
+| [Math](Topics/math/) | 33 |
 | [Matrix](Topics/matrix/) | 6 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
