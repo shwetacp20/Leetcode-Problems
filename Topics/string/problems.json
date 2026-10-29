@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-27T17:59:01.781Z",
+  "updatedAt": "2026-10-29T13:49:44.915Z",
   "problems": [
     {
       "frontendId": "3",
@@ -344,6 +344,26 @@
           "path": "1249-minimum-remove-to-make-valid-parentheses/1249-minimum-remove-to-make-valid-parentheses.java",
           "sha": "44a6093b25492f324d622a941811ab25f85c30c3",
           "lastSyncedAt": "2026-10-27T17:52:38.993Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1678",
+      "title": "Goal Parser Interpretation",
+      "slug": "goal-parser-interpretation",
+      "problemName": "1678-goal-parser-interpretation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/goal-parser-interpretation/",
+      "folderPath": "1678-goal-parser-interpretation/",
+      "readmePath": "1678-goal-parser-interpretation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1678-goal-parser-interpretation.java",
+          "path": "1678-goal-parser-interpretation/1678-goal-parser-interpretation.java",
+          "sha": "477f93c71d98439c93f2ef3152ea179001b0a603",
+          "lastSyncedAt": "2026-10-29T13:49:44.915Z"
         }
       ]
     },
