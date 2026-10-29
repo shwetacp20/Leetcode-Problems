@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-27T17:57:03.694Z",
+  "updatedAt": "2026-10-29T13:23:38.617Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "1345-jump-game-iv/1345-jump-game-iv.java",
           "sha": "861e1bdc9b352987eeb8934479d9cfeb64198bd6",
           "lastSyncedAt": "2026-10-27T17:53:23.655Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1512-number-of-good-pairs.py",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.py",
+          "sha": "a22ecae5c7388bf75a90c91066a33b67d45fb446",
+          "lastSyncedAt": "2026-10-29T13:23:38.617Z"
         }
       ]
     },
