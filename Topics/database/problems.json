@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-28T15:09:50.127Z",
+  "updatedAt": "2026-10-30T14:53:25.612Z",
   "problems": [
     {
       "frontendId": "175",
@@ -224,6 +224,26 @@
           "path": "0596-classes-with-at-least-5-students/0596-classes-with-at-least-5-students.py",
           "sha": "7bc4195a24b572c8427dedc95955922f9714117b",
           "lastSyncedAt": "2026-10-27T17:57:57.273Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1050",
+      "title": "Actors and Directors Who Cooperated At Least Three Times",
+      "slug": "actors-and-directors-who-cooperated-at-least-three-times",
+      "problemName": "1050-actors-and-directors-who-cooperated-at-least-three-times",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/",
+      "folderPath": "1050-actors-and-directors-who-cooperated-at-least-three-times/",
+      "readmePath": "1050-actors-and-directors-who-cooperated-at-least-three-times/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1050-actors-and-directors-who-cooperated-at-least-three-times.py",
+          "path": "1050-actors-and-directors-who-cooperated-at-least-three-times/1050-actors-and-directors-who-cooperated-at-least-three-times.py",
+          "sha": "8b9fac3b08fcb62a66aabc00d252771c20bc558f",
+          "lastSyncedAt": "2026-10-30T14:53:25.612Z"
         }
       ]
     },
