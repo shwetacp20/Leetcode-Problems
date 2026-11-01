@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-01T15:56:13.482Z",
+  "updatedAt": "2026-11-01T15:57:29.544Z",
   "problems": [
     {
       "frontendId": "175",
@@ -264,6 +264,26 @@
           "path": "1148-article-views-i/1148-article-views-i.py",
           "sha": "ff1122db47206b76d733cf0d04c952aeafc63dda",
           "lastSyncedAt": "2026-11-01T15:56:06.910Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1378",
+      "title": "Replace Employee ID With The Unique Identifier",
+      "slug": "replace-employee-id-with-the-unique-identifier",
+      "problemName": "1378-replace-employee-id-with-the-unique-identifier",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/",
+      "folderPath": "1378-replace-employee-id-with-the-unique-identifier/",
+      "readmePath": "1378-replace-employee-id-with-the-unique-identifier/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1378-replace-employee-id-with-the-unique-identifier.py",
+          "path": "1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.py",
+          "sha": "1f565f390a3ef30633f4a278167a4abd130b64ba",
+          "lastSyncedAt": "2026-11-01T15:57:29.544Z"
         }
       ]
     },
