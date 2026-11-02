@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-01T15:57:29.544Z",
+  "updatedAt": "2026-11-02T13:34:03.474Z",
   "problems": [
     {
       "frontendId": "175",
@@ -264,6 +264,26 @@
           "path": "1148-article-views-i/1148-article-views-i.py",
           "sha": "ff1122db47206b76d733cf0d04c952aeafc63dda",
           "lastSyncedAt": "2026-11-01T15:56:06.910Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1280",
+      "title": "Students and Examinations",
+      "slug": "students-and-examinations",
+      "problemName": "1280-students-and-examinations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/students-and-examinations/",
+      "folderPath": "1280-students-and-examinations/",
+      "readmePath": "1280-students-and-examinations/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1280-students-and-examinations.py",
+          "path": "1280-students-and-examinations/1280-students-and-examinations.py",
+          "sha": "4d18e0431ae9a9ef223957e750588205a6a51452",
+          "lastSyncedAt": "2026-11-02T13:34:03.474Z"
         }
       ]
     },
