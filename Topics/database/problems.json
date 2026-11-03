@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-02T13:34:03.474Z",
+  "updatedAt": "2026-11-03T14:48:38.175Z",
   "problems": [
     {
       "frontendId": "175",
@@ -164,6 +164,26 @@
           "path": "0511-game-play-analysis-i/0511-game-play-analysis-i.py",
           "sha": "820f3c6a28450fb46ce659553b15aafa014089db",
           "lastSyncedAt": "2026-11-01T15:55:27.000Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "570",
+      "title": "Managers with at Least 5 Direct Reports",
+      "slug": "managers-with-at-least-5-direct-reports",
+      "problemName": "0570-managers-with-at-least-5-direct-reports",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports/",
+      "folderPath": "0570-managers-with-at-least-5-direct-reports/",
+      "readmePath": "0570-managers-with-at-least-5-direct-reports/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "0570-managers-with-at-least-5-direct-reports.py",
+          "path": "0570-managers-with-at-least-5-direct-reports/0570-managers-with-at-least-5-direct-reports.py",
+          "sha": "7915399339fa46b237c176488598bf99d6dc42ea",
+          "lastSyncedAt": "2026-11-03T14:48:38.175Z"
         }
       ]
     },
