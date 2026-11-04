@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-03T14:48:38.175Z",
+  "updatedAt": "2026-11-04T17:17:12.186Z",
   "problems": [
     {
       "frontendId": "175",
@@ -244,6 +244,26 @@
           "path": "0596-classes-with-at-least-5-students/0596-classes-with-at-least-5-students.py",
           "sha": "7bc4195a24b572c8427dedc95955922f9714117b",
           "lastSyncedAt": "2026-11-01T15:55:21.298Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "607",
+      "title": "Sales Person",
+      "slug": "sales-person",
+      "problemName": "0607-sales-person",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sales-person/",
+      "folderPath": "0607-sales-person/",
+      "readmePath": "0607-sales-person/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "0607-sales-person.py",
+          "path": "0607-sales-person/0607-sales-person.py",
+          "sha": "6a6d78ba4ef1afd6b69df1d316cc290ebafe2b1e",
+          "lastSyncedAt": "2026-11-04T17:17:12.186Z"
         }
       ]
     },
