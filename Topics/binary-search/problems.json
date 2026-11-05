@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-01T15:58:29.186Z",
+  "updatedAt": "2026-11-05T13:15:19.986Z",
   "problems": [
     {
       "frontendId": "33",
@@ -84,6 +84,26 @@
           "path": "0154-find-minimum-in-rotated-sorted-array-ii/0154-find-minimum-in-rotated-sorted-array-ii.java",
           "sha": "3f42c26ac324f2ae9f4fadc7a1d0cb41d879e208",
           "lastSyncedAt": "2026-10-27T17:53:38.200Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1385",
+      "title": "Find the Distance Value Between Two Arrays",
+      "slug": "find-the-distance-value-between-two-arrays",
+      "problemName": "1385-find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+      "folderPath": "1385-find-the-distance-value-between-two-arrays/",
+      "readmePath": "1385-find-the-distance-value-between-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1385-find-the-distance-value-between-two-arrays.java",
+          "path": "1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
+          "sha": "94da526a59207dc9c3364767315dc395d10357cf",
+          "lastSyncedAt": "2026-11-05T13:15:19.986Z"
         }
       ]
     },
