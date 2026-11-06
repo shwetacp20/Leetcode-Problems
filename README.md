@@ -6,18 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 140 | 72 | 50 | 18 |
+| 142 | 74 | 50 | 18 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 15 days | 115 |
+| 6 days | 15 days | 117 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-20 | 1 |
-| 2026-10-21 | 1 |
 | 2026-10-23 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-25 | 1 |
@@ -30,30 +28,32 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-02 | 1 |
 | 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
+| 2026-11-05 | 1 |
+| 2026-11-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 65 | 46% |
-| Math | 33 | 24% |
-| String | 32 | 23% |
-| Database | 29 | 21% |
+| Array | 66 | 46% |
+| Math | 33 | 23% |
+| String | 33 | 23% |
+| Database | 29 | 20% |
 | Hash Table | 23 | 16% |
-| Two Pointers | 15 | 11% |
-| Dynamic Programming | 12 | 9% |
-| Binary Search | 11 | 8% |
+| Two Pointers | 17 | 12% |
+| Binary Search | 12 | 8% |
+| Dynamic Programming | 12 | 8% |
+| Sorting | 11 | 8% |
 | Prefix Sum | 10 | 7% |
-| Simulation | 10 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 65 |
+| [Array](Topics/array/) | 66 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
-| [Binary Search](Topics/binary-search/) | 11 |
+| [Binary Search](Topics/binary-search/) | 12 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 8 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
@@ -94,14 +94,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 10 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 10 |
+| [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 32 |
+| [String](Topics/string/) | 33 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
 | [Tree](Topics/tree/) | 4 |
 | [Trie](Topics/trie/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 15 |
+| [Two Pointers](Topics/two-pointers/) | 17 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
