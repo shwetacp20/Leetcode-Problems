@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 142 | 74 | 50 | 18 |
+| 143 | 75 | 50 | 18 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 15 days | 117 |
+| 7 days | 15 days | 118 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-23 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
@@ -30,18 +29,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-04 | 1 |
 | 2026-11-05 | 1 |
 | 2026-11-06 | 1 |
+| 2026-11-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 66 | 46% |
-| Math | 33 | 23% |
+| Math | 34 | 24% |
 | String | 33 | 23% |
 | Database | 29 | 20% |
 | Hash Table | 23 | 16% |
 | Two Pointers | 17 | 12% |
-| Binary Search | 12 | 8% |
+| Binary Search | 13 | 9% |
 | Dynamic Programming | 12 | 8% |
 | Sorting | 11 | 8% |
 | Prefix Sum | 10 | 7% |
@@ -53,7 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Array](Topics/array/) | 66 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
-| [Binary Search](Topics/binary-search/) | 12 |
+| [Binary Search](Topics/binary-search/) | 13 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 8 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
@@ -80,12 +80,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 33 |
+| [Math](Topics/math/) | 34 |
 | [Matrix](Topics/matrix/) | 6 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
+| [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 6 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 10 |
