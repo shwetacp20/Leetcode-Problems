@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T16:38:46.889Z",
+  "updatedAt": "2026-11-08T17:17:13.115Z",
   "problems": [
     {
       "frontendId": "3",
@@ -404,6 +404,26 @@
           "path": "1678-goal-parser-interpretation/1678-goal-parser-interpretation.java",
           "sha": "477f93c71d98439c93f2ef3152ea179001b0a603",
           "lastSyncedAt": "2026-11-01T15:54:46.395Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1684",
+      "title": "Count the Number of Consistent Strings",
+      "slug": "count-the-number-of-consistent-strings",
+      "problemName": "1684-count-the-number-of-consistent-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-consistent-strings/",
+      "folderPath": "1684-count-the-number-of-consistent-strings/",
+      "readmePath": "1684-count-the-number-of-consistent-strings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1684-count-the-number-of-consistent-strings.java",
+          "path": "1684-count-the-number-of-consistent-strings/1684-count-the-number-of-consistent-strings.java",
+          "sha": "44f122f149b49b2761cef4fd9216097be72f3fe8",
+          "lastSyncedAt": "2026-11-08T17:17:13.115Z"
         }
       ]
     },
