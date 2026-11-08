@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 143 | 75 | 50 | 18 |
+| 144 | 76 | 50 | 18 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 15 days | 118 |
+| 8 days | 15 days | 119 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-24 | 1 |
 | 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
@@ -30,16 +29,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-05 | 1 |
 | 2026-11-06 | 1 |
 | 2026-11-07 | 1 |
+| 2026-11-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 66 | 46% |
+| Array | 67 | 47% |
 | Math | 34 | 24% |
-| String | 33 | 23% |
+| String | 34 | 24% |
 | Database | 29 | 20% |
-| Hash Table | 23 | 16% |
+| Hash Table | 24 | 17% |
 | Two Pointers | 17 | 12% |
 | Binary Search | 13 | 9% |
 | Dynamic Programming | 12 | 8% |
@@ -50,17 +50,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 66 |
+| [Array](Topics/array/) | 67 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 13 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 8 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 9 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
-| [Counting](Topics/counting/) | 5 |
+| [Counting](Topics/counting/) | 6 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 29 |
 | [Depth-First Search](Topics/depth-first-search/) | 5 |
@@ -74,7 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Graph Theory](Topics/graph/) | 2 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 3 |
 | [Greedy](Topics/greedy/) | 8 |
-| [Hash Table](Topics/hash-table/) | 23 |
+| [Hash Table](Topics/hash-table/) | 24 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -97,7 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 33 |
+| [String](Topics/string/) | 34 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
 | [Tree](Topics/tree/) | 4 |
