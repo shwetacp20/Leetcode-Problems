@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 144 | 76 | 50 | 18 |
+| 145 | 77 | 50 | 18 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 15 days | 119 |
+| 9 days | 15 days | 120 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-28 | 1 |
@@ -30,21 +29,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-06 | 1 |
 | 2026-11-07 | 1 |
 | 2026-11-08 | 1 |
+| 2026-11-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 67 | 47% |
-| Math | 34 | 24% |
-| String | 34 | 24% |
+| Array | 67 | 46% |
+| String | 35 | 24% |
+| Math | 34 | 23% |
 | Database | 29 | 20% |
-| Hash Table | 24 | 17% |
+| Hash Table | 25 | 17% |
 | Two Pointers | 17 | 12% |
 | Binary Search | 13 | 9% |
 | Dynamic Programming | 12 | 8% |
-| Sorting | 11 | 8% |
-| Prefix Sum | 10 | 7% |
+| Sorting | 12 | 8% |
+| Bit Manipulation | 10 | 7% |
 
 ## Topics
 
@@ -55,7 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 13 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 9 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 10 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
@@ -74,7 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Graph Theory](Topics/graph/) | 2 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 3 |
 | [Greedy](Topics/greedy/) | 8 |
-| [Hash Table](Topics/hash-table/) | 24 |
+| [Hash Table](Topics/hash-table/) | 25 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -95,9 +95,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 10 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 11 |
+| [Sorting](Topics/sorting/) | 12 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 34 |
+| [String](Topics/string/) | 35 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
 | [Tree](Topics/tree/) | 4 |
