@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-08T17:17:13.115Z",
+  "updatedAt": "2026-11-09T15:11:56.022Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.java",
           "sha": "ba895cef7bce5ba12f106cf1422da21dd411a034",
           "lastSyncedAt": "2026-10-27T17:51:02.449Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "problemName": "0389-find-the-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+      "folderPath": "0389-find-the-difference/",
+      "readmePath": "0389-find-the-difference/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0389-find-the-difference.java",
+          "path": "0389-find-the-difference/0389-find-the-difference.java",
+          "sha": "64e72fa998bc02287e11405b11b4b0d680a35c9d",
+          "lastSyncedAt": "2026-11-09T15:11:56.022Z"
         }
       ]
     },
