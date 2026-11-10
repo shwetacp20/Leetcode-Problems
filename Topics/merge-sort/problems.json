@@ -5,7 +5,7 @@
     "name": "Merge Sort",
     "tagId": "61051"
   },
-  "updatedAt": "2026-11-10T17:33:19.489Z",
+  "updatedAt": "2026-11-10T17:46:30.309Z",
   "problems": [
     {
       "frontendId": "3737",
@@ -43,7 +43,7 @@
           "filename": "3739-count-subarrays-with-majority-element-ii.java",
           "path": "3739-count-subarrays-with-majority-element-ii/3739-count-subarrays-with-majority-element-ii.java",
           "sha": "91c54503811b6957daddf1564370e2129e894e5f",
-          "lastSyncedAt": "2026-11-10T17:33:06.384Z"
+          "lastSyncedAt": "2026-11-10T17:46:30.309Z"
         }
       ]
     }
