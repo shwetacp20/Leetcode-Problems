@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-11-10T17:44:53.758Z",
+  "updatedAt": "2026-11-10T17:45:13.788Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -123,7 +123,7 @@
           "filename": "3867-sum-of-gcd-of-formed-pairs.java",
           "path": "3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.java",
           "sha": "8c1615c1308ddc9cef47b2a67da3c515f7ff073a",
-          "lastSyncedAt": "2026-11-10T17:31:49.180Z"
+          "lastSyncedAt": "2026-11-10T17:45:13.788Z"
         }
       ]
     }
