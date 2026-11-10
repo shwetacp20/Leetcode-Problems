@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-10T17:43:18.768Z",
+  "updatedAt": "2026-11-10T17:44:05.981Z",
   "problems": [
     {
       "frontendId": "67",
@@ -163,7 +163,7 @@
           "filename": "3514-number-of-unique-xor-triplets-ii.java",
           "path": "3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.java",
           "sha": "88de790fd0cc5b14a8baffd08a36881ad085d36c",
-          "lastSyncedAt": "2026-11-10T17:30:35.674Z"
+          "lastSyncedAt": "2026-11-10T17:44:05.981Z"
         }
       ]
     },
