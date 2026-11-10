@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-10T17:32:47.102Z",
+  "updatedAt": "2026-11-10T17:33:00.650Z",
   "problems": [
     {
       "frontendId": "1",
@@ -763,7 +763,7 @@
           "filename": "3020-find-the-maximum-number-of-elements-in-subset.java",
           "path": "3020-find-the-maximum-number-of-elements-in-subset/3020-find-the-maximum-number-of-elements-in-subset.java",
           "sha": "9878816d5239e13f3d5e6bd87595795d07ec8575",
-          "lastSyncedAt": "2026-10-27T17:49:08.367Z"
+          "lastSyncedAt": "2026-11-10T17:33:00.650Z"
         }
       ]
     },
