@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-10T17:27:33.289Z",
+  "updatedAt": "2026-11-10T17:27:35.339Z",
   "problems": [
     {
       "frontendId": "3",
@@ -423,7 +423,7 @@
           "filename": "1678-goal-parser-interpretation.java",
           "path": "1678-goal-parser-interpretation/1678-goal-parser-interpretation.java",
           "sha": "477f93c71d98439c93f2ef3152ea179001b0a603",
-          "lastSyncedAt": "2026-11-01T15:54:46.395Z"
+          "lastSyncedAt": "2026-11-10T17:27:35.339Z"
         }
       ]
     },
