@@ -5,7 +5,7 @@
     "name": "Game Theory",
     "tagId": "61073"
   },
-  "updatedAt": "2026-11-10T17:30:10.955Z",
+  "updatedAt": "2026-11-10T17:30:28.385Z",
   "problems": [
     {
       "frontendId": "1872",
@@ -43,7 +43,7 @@
           "filename": "1927-sum-game.java",
           "path": "1927-sum-game/1927-sum-game.java",
           "sha": "09567af833d1f9119c09d4ad2c5def2df3abe7fb",
-          "lastSyncedAt": "2026-11-01T15:57:38.651Z"
+          "lastSyncedAt": "2026-11-10T17:30:28.385Z"
         }
       ]
     }
