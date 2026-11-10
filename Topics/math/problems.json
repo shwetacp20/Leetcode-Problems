@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-10T17:48:30.301Z",
+  "updatedAt": "2026-11-10T17:49:06.101Z",
   "problems": [
     {
       "frontendId": "2",
@@ -363,7 +363,7 @@
           "filename": "3300-minimum-element-after-replacement-with-digit-sum.java",
           "path": "3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.java",
           "sha": "9fa5c5f68f4cc8d9fed92afd1baab96e5437b499",
-          "lastSyncedAt": "2026-11-10T17:35:40.568Z"
+          "lastSyncedAt": "2026-11-10T17:49:06.101Z"
         }
       ]
     },
