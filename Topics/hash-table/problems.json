@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-10T17:36:49.542Z",
+  "updatedAt": "2026-11-10T17:37:12.745Z",
   "problems": [
     {
       "frontendId": "1",
@@ -303,7 +303,7 @@
           "filename": "2784-check-if-array-is-good.java",
           "path": "2784-check-if-array-is-good/2784-check-if-array-is-good.java",
           "sha": "f8fdad91680718e5195f6fc01188f404f57720ca",
-          "lastSyncedAt": "2026-10-27T17:53:55.100Z"
+          "lastSyncedAt": "2026-11-10T17:37:12.745Z"
         }
       ]
     },
