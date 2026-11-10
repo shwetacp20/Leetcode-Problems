@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-10T17:34:47.636Z",
+  "updatedAt": "2026-11-10T17:36:00.168Z",
   "problems": [
     {
       "frontendId": "1",
@@ -363,7 +363,7 @@
           "filename": "3121-count-the-number-of-special-characters-ii.java",
           "path": "3121-count-the-number-of-special-characters-ii/3121-count-the-number-of-special-characters-ii.java",
           "sha": "46d8e952f47ffad1496126c9da147065b10880ef",
-          "lastSyncedAt": "2026-10-27T17:52:33.913Z"
+          "lastSyncedAt": "2026-11-10T17:36:00.168Z"
         }
       ]
     },
