@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-10T17:54:06.055Z",
+  "updatedAt": "2026-11-10T17:54:09.972Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1023,7 +1023,7 @@
           "filename": "3568-minimum-moves-to-clean-the-classroom.java",
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
           "sha": "cf271a691cee9dc854cb796df57ebdfa2cf513a7",
-          "lastSyncedAt": "2026-11-10T17:43:18.768Z"
+          "lastSyncedAt": "2026-11-10T17:54:09.972Z"
         }
       ]
     },
