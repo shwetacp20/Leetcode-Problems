@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-10T17:26:36.180Z",
+  "updatedAt": "2026-11-10T17:27:07.389Z",
   "problems": [
     {
       "frontendId": "88",
@@ -123,7 +123,7 @@
           "filename": "1385-find-the-distance-value-between-two-arrays.java",
           "path": "1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
           "sha": "94da526a59207dc9c3364767315dc395d10357cf",
-          "lastSyncedAt": "2026-11-05T13:15:19.986Z"
+          "lastSyncedAt": "2026-11-10T17:27:07.389Z"
         }
       ]
     },
