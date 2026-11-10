@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-10T17:31:03.958Z",
+  "updatedAt": "2026-11-10T17:32:31.214Z",
   "problems": [
     {
       "frontendId": "48",
@@ -63,7 +63,7 @@
           "filename": "1301-number-of-paths-with-max-score.java",
           "path": "1301-number-of-paths-with-max-score/1301-number-of-paths-with-max-score.java",
           "sha": "27dba72e14af2db0325c50578ff25026e0671a89",
-          "lastSyncedAt": "2026-10-27T17:48:36.103Z"
+          "lastSyncedAt": "2026-11-10T17:32:31.214Z"
         }
       ]
     },
