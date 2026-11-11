@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-10T17:54:09.972Z",
+  "updatedAt": "2026-11-11T06:22:39.631Z",
   "problems": [
     {
       "frontendId": "67",
@@ -83,7 +83,7 @@
           "filename": "0389-find-the-difference.java",
           "path": "0389-find-the-difference/0389-find-the-difference.java",
           "sha": "64e72fa998bc02287e11405b11b4b0d680a35c9d",
-          "lastSyncedAt": "2026-11-10T17:51:25.730Z"
+          "lastSyncedAt": "2026-11-11T06:22:39.631Z"
         }
       ]
     },
