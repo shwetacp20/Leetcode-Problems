@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T07:01:57.965Z",
+  "updatedAt": "2026-11-11T07:02:17.411Z",
   "problems": [
     {
       "frontendId": "1",
@@ -523,7 +523,7 @@
           "filename": "1752-check-if-array-is-sorted-and-rotated.java",
           "path": "1752-check-if-array-is-sorted-and-rotated/1752-check-if-array-is-sorted-and-rotated.java",
           "sha": "c0ae5e09b01063e3beefd039d27635e71abfa931",
-          "lastSyncedAt": "2026-11-11T06:35:40.701Z"
+          "lastSyncedAt": "2026-11-11T07:02:17.411Z"
         }
       ]
     },
