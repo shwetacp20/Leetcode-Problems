@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-11-11T06:57:43.509Z",
+  "updatedAt": "2026-11-11T06:57:59.558Z",
   "problems": [
     {
       "frontendId": "3161",
@@ -83,7 +83,7 @@
           "filename": "3737-count-subarrays-with-majority-element-i.java",
           "path": "3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.java",
           "sha": "27dbe4bb786a1025ecb958b89144c0c01b38b82c",
-          "lastSyncedAt": "2026-11-11T06:31:22.481Z"
+          "lastSyncedAt": "2026-11-11T06:57:59.558Z"
         }
       ]
     },
