@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T06:32:47.048Z",
+  "updatedAt": "2026-11-11T06:32:59.107Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1143,7 +1143,7 @@
           "filename": "3689-maximum-total-subarray-value-i.java",
           "path": "3689-maximum-total-subarray-value-i/3689-maximum-total-subarray-value-i.java",
           "sha": "4bf40a25b723641a04be5d8c5dbb00cb86297263",
-          "lastSyncedAt": "2026-11-10T17:47:55.432Z"
+          "lastSyncedAt": "2026-11-11T06:32:59.107Z"
         }
       ]
     },
