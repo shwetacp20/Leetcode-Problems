@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-11T06:58:15.464Z",
+  "updatedAt": "2026-11-11T06:58:45.545Z",
   "problems": [
     {
       "frontendId": "3",
@@ -703,7 +703,7 @@
           "filename": "3838-weighted-word-mapping.java",
           "path": "3838-weighted-word-mapping/3838-weighted-word-mapping.java",
           "sha": "77563335fab9840585653f6b15817c8c984538a2",
-          "lastSyncedAt": "2026-11-11T06:32:15.074Z"
+          "lastSyncedAt": "2026-11-11T06:58:45.545Z"
         }
       ]
     }
