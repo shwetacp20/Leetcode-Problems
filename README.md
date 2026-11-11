@@ -12,7 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 9 days | 15 days | 120 |
+| 0 days | 15 days | 120 |
 
 | Date | Problems |
 | --- | ---: |
