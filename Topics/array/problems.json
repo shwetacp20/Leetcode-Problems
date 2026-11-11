@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T07:03:36.644Z",
+  "updatedAt": "2026-11-11T07:03:41.771Z",
   "problems": [
     {
       "frontendId": "1",
@@ -483,7 +483,7 @@
           "filename": "1674-minimum-moves-to-make-array-complementary.java",
           "path": "1674-minimum-moves-to-make-array-complementary/1674-minimum-moves-to-make-array-complementary.java",
           "sha": "59ad9d6f55c593daab5ef4256b72b46b93620f9f",
-          "lastSyncedAt": "2026-11-11T06:36:54.474Z"
+          "lastSyncedAt": "2026-11-11T07:03:41.771Z"
         }
       ]
     },
