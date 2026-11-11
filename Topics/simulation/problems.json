@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-11T06:33:06.525Z",
+  "updatedAt": "2026-11-11T06:33:41.944Z",
   "problems": [
     {
       "frontendId": "67",
@@ -23,7 +23,7 @@
           "filename": "0067-add-binary.java",
           "path": "0067-add-binary/0067-add-binary.java",
           "sha": "e62144454f2367b42fe0f615bc8dd83ae6911b3d",
-          "lastSyncedAt": "2026-11-10T17:48:23.306Z"
+          "lastSyncedAt": "2026-11-11T06:33:41.944Z"
         }
       ]
     },
