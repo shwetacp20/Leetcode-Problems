@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-11T06:53:22.068Z",
+  "updatedAt": "2026-11-11T06:53:34.147Z",
   "problems": [
     {
       "frontendId": "1",
@@ -463,7 +463,7 @@
           "filename": "3720-lexicographically-smallest-permutation-greater-than-target.java",
           "path": "3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.java",
           "sha": "2f58544c92a4f6a217ad1699194a627895b1a663",
-          "lastSyncedAt": "2026-11-11T06:26:53.004Z"
+          "lastSyncedAt": "2026-11-11T06:53:34.147Z"
         }
       ]
     },
