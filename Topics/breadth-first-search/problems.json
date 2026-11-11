@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-11T06:58:34.506Z",
+  "updatedAt": "2026-11-11T07:02:55.107Z",
   "problems": [
     {
       "frontendId": "112",
@@ -63,7 +63,7 @@
           "filename": "1345-jump-game-iv.java",
           "path": "1345-jump-game-iv/1345-jump-game-iv.java",
           "sha": "861e1bdc9b352987eeb8934479d9cfeb64198bd6",
-          "lastSyncedAt": "2026-11-11T06:36:14.522Z"
+          "lastSyncedAt": "2026-11-11T07:02:55.107Z"
         }
       ]
     },
