@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-11T06:53:59.047Z",
+  "updatedAt": "2026-11-11T06:56:22.723Z",
   "problems": [
     {
       "frontendId": "5",
@@ -163,7 +163,7 @@
           "filename": "3336-find-the-number-of-subsequences-with-equal-gcd.java",
           "path": "3336-find-the-number-of-subsequences-with-equal-gcd/3336-find-the-number-of-subsequences-with-equal-gcd.java",
           "sha": "e65ff8359881fb1d91cefc9f045830817ef578f0",
-          "lastSyncedAt": "2026-11-11T06:29:42.117Z"
+          "lastSyncedAt": "2026-11-11T06:56:22.723Z"
         }
       ]
     },
