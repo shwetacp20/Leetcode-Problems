@@ -6,18 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 145 | 77 | 50 | 18 |
+| 147 | 79 | 50 | 18 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 15 days | 120 |
+| 2 days | 15 days | 122 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-26 | 1 |
-| 2026-10-27 | 1 |
 | 2026-10-28 | 1 |
 | 2026-10-29 | 7 |
 | 2026-10-30 | 1 |
@@ -30,12 +28,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-07 | 1 |
 | 2026-11-08 | 1 |
 | 2026-11-09 | 1 |
+| 2026-11-11 | 1 |
+| 2026-11-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 67 | 46% |
+| Array | 69 | 47% |
 | String | 35 | 24% |
 | Math | 34 | 23% |
 | Database | 29 | 20% |
@@ -50,7 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 67 |
+| [Array](Topics/array/) | 69 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 13 |
