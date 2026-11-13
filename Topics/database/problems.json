@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-13T17:26:52.037Z",
+  "updatedAt": "2026-11-13T17:26:54.665Z",
   "problems": [
     {
       "frontendId": "175",
@@ -183,7 +183,7 @@
           "filename": "0570-managers-with-at-least-5-direct-reports.py",
           "path": "0570-managers-with-at-least-5-direct-reports/0570-managers-with-at-least-5-direct-reports.py",
           "sha": "7915399339fa46b237c176488598bf99d6dc42ea",
-          "lastSyncedAt": "2026-11-11T06:50:23.682Z"
+          "lastSyncedAt": "2026-11-13T17:26:54.665Z"
         }
       ]
     },
