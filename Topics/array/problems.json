@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-12T15:15:54.716Z",
+  "updatedAt": "2026-11-13T17:25:53.888Z",
   "problems": [
     {
       "frontendId": "1",
@@ -783,7 +783,7 @@
           "filename": "2798-number-of-employees-who-met-the-target.java",
           "path": "2798-number-of-employees-who-met-the-target/2798-number-of-employees-who-met-the-target.java",
           "sha": "ea02050919eb03843195287cacc734ec03c1a18e",
-          "lastSyncedAt": "2026-11-12T15:15:54.716Z"
+          "lastSyncedAt": "2026-11-13T17:25:53.888Z"
         }
       ]
     },
