@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-11-13T17:31:38.287Z",
+  "updatedAt": "2026-11-13T17:32:33.547Z",
   "problems": [
     {
       "frontendId": "1291",
@@ -43,7 +43,7 @@
           "filename": "3020-find-the-maximum-number-of-elements-in-subset.java",
           "path": "3020-find-the-maximum-number-of-elements-in-subset/3020-find-the-maximum-number-of-elements-in-subset.java",
           "sha": "9878816d5239e13f3d5e6bd87595795d07ec8575",
-          "lastSyncedAt": "2026-11-11T06:57:34.268Z"
+          "lastSyncedAt": "2026-11-13T17:32:33.547Z"
         }
       ]
     },
