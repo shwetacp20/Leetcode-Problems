@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T07:04:47.214Z",
+  "updatedAt": "2026-11-13T17:26:32.592Z",
   "problems": [
     {
       "frontendId": "2",
@@ -183,7 +183,7 @@
           "filename": "0069-sqrtx.java",
           "path": "0069-sqrtx/0069-sqrtx.java",
           "sha": "0158ce21d0f45b28902fcb993118d1d3ec1d0818",
-          "lastSyncedAt": "2026-11-11T06:49:56.653Z"
+          "lastSyncedAt": "2026-11-13T17:26:32.592Z"
         }
       ]
     },
