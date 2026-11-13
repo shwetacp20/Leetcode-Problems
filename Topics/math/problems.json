@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-13T17:31:27.289Z",
+  "updatedAt": "2026-11-13T17:31:47.250Z",
   "problems": [
     {
       "frontendId": "2",
@@ -603,7 +603,7 @@
           "filename": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i.java",
           "path": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.java",
           "sha": "60494eba0511a65b28abdb7ee1bab3343b9dc35e",
-          "lastSyncedAt": "2026-11-11T06:56:46.562Z"
+          "lastSyncedAt": "2026-11-13T17:31:47.250Z"
         }
       ]
     },
