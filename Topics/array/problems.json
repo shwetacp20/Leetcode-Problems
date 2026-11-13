@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T17:32:10.327Z",
+  "updatedAt": "2026-11-13T17:33:29.713Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1283,7 +1283,7 @@
           "filename": "3838-weighted-word-mapping.java",
           "path": "3838-weighted-word-mapping/3838-weighted-word-mapping.java",
           "sha": "77563335fab9840585653f6b15817c8c984538a2",
-          "lastSyncedAt": "2026-11-11T06:58:45.545Z"
+          "lastSyncedAt": "2026-11-13T17:33:29.713Z"
         }
       ]
     },
