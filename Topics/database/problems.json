@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-11T06:52:30.146Z",
+  "updatedAt": "2026-11-13T17:25:08.467Z",
   "problems": [
     {
       "frontendId": "175",
@@ -497,6 +497,14 @@
       "folderPath": "1757-recyclable-and-low-fat-products/",
       "readmePath": "1757-recyclable-and-low-fat-products/README.md",
       "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1757-recyclable-and-low-fat-products.sql",
+          "path": "1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql",
+          "sha": "693865d43e8e5723d16aacf3ef8f48409ebdf46e",
+          "lastSyncedAt": "2026-11-13T17:25:08.467Z"
+        },
         {
           "language": "Pandas",
           "extension": ".py",
