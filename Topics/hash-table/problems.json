@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-13T17:29:30.324Z",
+  "updatedAt": "2026-11-13T17:30:52.620Z",
   "problems": [
     {
       "frontendId": "1",
@@ -383,7 +383,7 @@
           "filename": "3312-sorted-gcd-pair-queries.java",
           "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.java",
           "sha": "d2dd4b3690cee3e64811c68586e78bd3eda51bf2",
-          "lastSyncedAt": "2026-11-11T06:55:42.050Z"
+          "lastSyncedAt": "2026-11-13T17:30:52.620Z"
         }
       ]
     },
