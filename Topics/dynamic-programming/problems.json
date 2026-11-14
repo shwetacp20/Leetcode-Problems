@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-13T17:32:10.327Z",
+  "updatedAt": "2026-11-14T06:01:52.213Z",
   "problems": [
     {
       "frontendId": "5",
@@ -64,6 +64,26 @@
           "path": "0115-distinct-subsequences/0115-distinct-subsequences.java",
           "sha": "68c2fd3c422926ce78638096666072a534031792",
           "lastSyncedAt": "2026-11-13T17:28:44.270Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0509-fibonacci-number.py",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.py",
+          "sha": "7ffbac10cdc6d4ddf00ff27d1bced9c9ca02c74a",
+          "lastSyncedAt": "2026-11-14T06:01:52.213Z"
         }
       ]
     },
