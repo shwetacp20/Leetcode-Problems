@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T17:33:36.433Z",
+  "updatedAt": "2026-11-14T06:33:01.930Z",
   "problems": [
     {
       "frontendId": "1",
@@ -723,7 +723,7 @@
           "filename": "2574-left-and-right-sum-differences.java",
           "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.java",
           "sha": "87ec27a4fc25da6a20121b94b2c0bcc4c7ccf03f",
-          "lastSyncedAt": "2026-11-11T07:00:07.895Z"
+          "lastSyncedAt": "2026-11-14T06:33:01.930Z"
         }
       ]
     },
