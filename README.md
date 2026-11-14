@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 147 | 79 | 50 | 18 |
+| 148 | 80 | 50 | 18 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 15 days | 122 |
+| 1 days | 15 days | 123 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-28 | 1 |
 | 2026-10-29 | 7 |
 | 2026-10-30 | 1 |
 | 2026-11-01 | 1 |
@@ -30,19 +29,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-09 | 1 |
 | 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
+| 2026-11-14 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 69 | 47% |
+| Math | 35 | 24% |
 | String | 35 | 24% |
-| Math | 34 | 23% |
 | Database | 29 | 20% |
 | Hash Table | 25 | 17% |
-| Two Pointers | 17 | 12% |
+| Two Pointers | 17 | 11% |
 | Binary Search | 13 | 9% |
-| Dynamic Programming | 12 | 8% |
+| Dynamic Programming | 13 | 9% |
 | Sorting | 12 | 8% |
 | Bit Manipulation | 10 | 7% |
 
@@ -65,7 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Database](Topics/database/) | 29 |
 | [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 13 |
 | [Enumeration](Topics/enumeration/) | 5 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 3 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
@@ -80,9 +80,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 34 |
+| [Math](Topics/math/) | 35 |
 | [Matrix](Topics/matrix/) | 6 |
-| [Memoization](Topics/memoization/) | 1 |
+| [Memoization](Topics/memoization/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
@@ -90,7 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Number Theory](Topics/number-theory/) | 6 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 10 |
-| [Recursion](Topics/recursion/) | 3 |
+| [Recursion](Topics/recursion/) | 4 |
 | [Segment Tree](Topics/segment-tree/) | 5 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 10 |
