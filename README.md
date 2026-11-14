@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 148 | 80 | 50 | 18 |
+| 149 | 81 | 50 | 18 |
 
 ## Activity
 
@@ -29,18 +29,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-09 | 1 |
 | 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
-| 2026-11-14 | 1 |
+| 2026-11-14 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 69 | 47% |
-| Math | 35 | 24% |
-| String | 35 | 24% |
-| Database | 29 | 20% |
+| Array | 69 | 46% |
+| String | 36 | 24% |
+| Math | 35 | 23% |
+| Database | 29 | 19% |
 | Hash Table | 25 | 17% |
-| Two Pointers | 17 | 11% |
+| Two Pointers | 18 | 12% |
 | Binary Search | 13 | 9% |
 | Dynamic Programming | 13 | 9% |
 | Sorting | 12 | 8% |
@@ -97,12 +97,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 12 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 35 |
+| [String](Topics/string/) | 36 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
 | [Tree](Topics/tree/) | 4 |
 | [Trie](Topics/trie/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 17 |
+| [Two Pointers](Topics/two-pointers/) | 18 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
