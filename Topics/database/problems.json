@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-16T17:41:36.987Z",
+  "updatedAt": "2026-11-17T17:12:22.430Z",
   "problems": [
     {
       "frontendId": "175",
@@ -465,6 +465,14 @@
       "folderPath": "1683-invalid-tweets/",
       "readmePath": "1683-invalid-tweets/README.md",
       "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1683-invalid-tweets.sql",
+          "path": "1683-invalid-tweets/1683-invalid-tweets.sql",
+          "sha": "9a71404effc1958a4a983822997030922a8c7663",
+          "lastSyncedAt": "2026-11-17T17:12:22.430Z"
+        },
         {
           "language": "Pandas",
           "extension": ".py",
