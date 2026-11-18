@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-17T17:12:22.430Z",
+  "updatedAt": "2026-11-18T12:18:39.758Z",
   "problems": [
     {
       "frontendId": "175",
@@ -365,6 +365,14 @@
       "folderPath": "1378-replace-employee-id-with-the-unique-identifier/",
       "readmePath": "1378-replace-employee-id-with-the-unique-identifier/README.md",
       "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1378-replace-employee-id-with-the-unique-identifier.sql",
+          "path": "1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.sql",
+          "sha": "14bae42b4a0731ba45c86c1540b69a77fca054c0",
+          "lastSyncedAt": "2026-11-18T12:18:39.758Z"
+        },
         {
           "language": "Pandas",
           "extension": ".py",
