@@ -6,19 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 150 | 82 | 50 | 18 |
+| 153 | 85 | 50 | 18 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 15 days | 124 |
+| 3 days | 15 days | 127 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-30 | 1 |
-| 2026-11-01 | 1 |
-| 2026-11-02 | 1 |
 | 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-05 | 1 |
@@ -30,19 +27,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-12 | 1 |
 | 2026-11-14 | 2 |
 | 2026-11-15 | 1 |
+| 2026-11-19 | 1 |
+| 2026-11-20 | 1 |
+| 2026-11-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 69 | 46% |
+| Array | 69 | 45% |
 | String | 36 | 24% |
 | Math | 35 | 23% |
-| Database | 30 | 20% |
-| Hash Table | 25 | 17% |
+| Database | 33 | 22% |
+| Hash Table | 25 | 16% |
 | Two Pointers | 18 | 12% |
-| Binary Search | 13 | 9% |
-| Dynamic Programming | 13 | 9% |
+| Binary Search | 13 | 8% |
+| Dynamic Programming | 13 | 8% |
 | Sorting | 12 | 8% |
 | Bit Manipulation | 10 | 7% |
 
@@ -62,7 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 6 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 30 |
+| [Database](Topics/database/) | 33 |
 | [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 13 |
