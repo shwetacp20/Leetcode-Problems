@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-21T13:39:12.500Z",
+  "updatedAt": "2026-11-22T12:34:30.194Z",
   "problems": [
     {
       "frontendId": "175",
@@ -500,6 +500,26 @@
           "path": "1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql",
           "sha": "7c0099882d3654615fa9614348d10a2d9bd32d7f",
           "lastSyncedAt": "2026-11-20T13:11:33.492Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1661",
+      "title": "Average Time of Process per Machine",
+      "slug": "average-time-of-process-per-machine",
+      "problemName": "1661-average-time-of-process-per-machine",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/average-time-of-process-per-machine/",
+      "folderPath": "1661-average-time-of-process-per-machine/",
+      "readmePath": "1661-average-time-of-process-per-machine/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1661-average-time-of-process-per-machine.sql",
+          "path": "1661-average-time-of-process-per-machine/1661-average-time-of-process-per-machine.sql",
+          "sha": "6338befa83989a4e958355cc0e55a477dfb4266e",
+          "lastSyncedAt": "2026-11-22T12:34:30.194Z"
         }
       ]
     },
