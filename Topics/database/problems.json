@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-22T12:41:07.292Z",
+  "updatedAt": "2026-11-23T17:37:30.268Z",
   "problems": [
     {
       "frontendId": "175",
@@ -197,6 +197,14 @@
       "folderPath": "0570-managers-with-at-least-5-direct-reports/",
       "readmePath": "0570-managers-with-at-least-5-direct-reports/README.md",
       "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0570-managers-with-at-least-5-direct-reports.sql",
+          "path": "0570-managers-with-at-least-5-direct-reports/0570-managers-with-at-least-5-direct-reports.sql",
+          "sha": "8b62d6bdf1a8d8109d3ec8e3cdd5110ffe180e50",
+          "lastSyncedAt": "2026-11-23T17:37:30.268Z"
+        },
         {
           "language": "Pandas",
           "extension": ".py",
