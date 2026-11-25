@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-24T17:39:00.222Z",
+  "updatedAt": "2026-11-25T17:40:11.013Z",
   "problems": [
     {
       "frontendId": "175",
@@ -420,6 +420,26 @@
           "path": "1148-article-views-i/1148-article-views-i.py",
           "sha": "ff1122db47206b76d733cf0d04c952aeafc63dda",
           "lastSyncedAt": "2026-11-13T17:28:24.600Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1251",
+      "title": "Average Selling Price",
+      "slug": "average-selling-price",
+      "problemName": "1251-average-selling-price",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/average-selling-price/",
+      "folderPath": "1251-average-selling-price/",
+      "readmePath": "1251-average-selling-price/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1251-average-selling-price.sql",
+          "path": "1251-average-selling-price/1251-average-selling-price.sql",
+          "sha": "c469a708516eafe6ba3f7d8ac2c4c4ce5e673d84",
+          "lastSyncedAt": "2026-11-25T17:40:11.013Z"
         }
       ]
     },
